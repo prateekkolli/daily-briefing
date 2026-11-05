@@ -1,0 +1,172 @@
+{
+  "updated": "2026-11-05T19:07:28",
+  "tech": [
+    {
+      "tag": "AI",
+      "title": "Muse has a voice mode now",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]",
+      "source": "",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+    },
+    {
+      "tag": "AI",
+      "title": "Claude AI can plug directly into your bank account",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll…",
+      "source": "",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    },
+    {
+      "tag": "AI",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico,…",
+      "source": "",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+    }
+  ],
+  "economy": [
+    {
+      "tag": "Economy",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "summary": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer"
+    },
+    {
+      "tag": "Economy",
+      "title": "As budgets tighten, people are breaking out their library cards",
+      "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living"
+    },
+    {
+      "tag": "Economy",
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "summary": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?",
+      "source": "",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions"
+    }
+  ],
+  "science": [
+    {
+      "tag": "Science",
+      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional…",
+      "source": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+    },
+    {
+      "tag": "Science",
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or…",
+      "source": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
+    },
+    {
+      "tag": "Science",
+      "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+      "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and…",
+      "source": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm"
+    }
+  ],
+  "politics": {
+    "national": [
+      {
+        "tag": "National",
+        "title": "Head of Justice Department office on Civil Rights resigns",
+        "summary": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+        "source": "",
+        "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
+      },
+      {
+        "tag": "National",
+        "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+        "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
+        "source": "",
+        "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
+      },
+      {
+        "tag": "National",
+        "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+        "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
+        "source": "",
+        "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
+      }
+    ],
+    "texas": [
+      {
+        "tag": "Texas",
+        "title": "What comes after the 'blue wave'? Texas Democrats are expected to prioritize public education and affordability. - www.kera.org",
+        "summary": "",
+        "source": "www.kera.org",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVlSbFB6MWdFSzhKSlZCN183QnBURy1JeVNfWE9hblJyRmpRSjNPWkE2Sk1Ud1hzWXV5TC1sbVhod2l4blZDSTF1SlN5aERVN2xNZ1M4LUQxMTdlM3g5R3VKMmdpQnFrTGJvUFd5N29aVENMcTlISG1mbGpodzkxc21IMmxXYXpmdTd0cHZxYTJQR28?oc=5"
+      },
+      {
+        "tag": "Texas",
+        "title": "Latino voters reflect on historic Democratic wins as Texas shifts left - Houston Public Media",
+        "summary": "",
+        "source": "Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYkpJQzR2Ynh3MVFlNVg0Z1pObktVMlRDUGI5cGRNY3RVYjlsaE5QSkhIMXVja0x6THRSQUg3Q21HQnQyV2d1NTRBZUR5S3NYNHc5Qk9HdUVHZlJRNDFLRnpyUmFEaExscjFyWS13d3RQdlY4ZmFRS3llLW42QkVaSXdtYXYyRW5fYWFtR2lYSEZmeEFqUzJTVWZUWjQtSkNQTGRyUUoycVNZdXZEZkhUOHNGZDFSQWVtWkNtMGZfMGRQemNOS1RvRC1GNG50cVd6Tl9ZbnRLX3Z3RDZMY2s2Ykp6WHFsNEE5bGNScjNDMVNBclRmUC10VnJPd9IB-wFBVV95cUxNYkpJQzR2Ynh3MVFlNVg0Z1pObktVMlRDUGI5cGRNY3RVYjlsaE5QSkhIMXVja0x6THRSQUg3Q21HQnQyV2d1NTRBZUR5S3NYNHc5Qk9HdUVHZlJRNDFLRnpyUmFEaExscjFyWS13d3RQdlY4ZmFRS3llLW42QkVaSXdtYXYyRW5fYWFtR2lYSEZmeEFqUzJTVWZUWjQtSkNQTGRyUUoycVNZdXZEZkhUOHNGZDFSQWVtWkNtMGZfMGRQemNOS1RvRC1GNG50cVd6Tl9ZbnRLX3Z3RDZMY2s2Ykp6WHFsNEE5bGNScjNDMVNBclRmUC10VnJPdw?oc=5"
+      }
+    ]
+  },
+  "social": {
+    "resources": [
+      {
+        "label": "Report a hate crime: FBI",
+        "url": "https://tips.fbi.gov"
+      },
+      {
+        "label": "Workplace discrimination: EEOC",
+        "url": "https://www.eeoc.gov/filing-charge-discrimination"
+      },
+      {
+        "label": "Stop AAPI Hate reporting",
+        "url": "https://stopaapihate.org"
+      }
+    ],
+    "items": [
+      {
+        "tag": "Tracking",
+        "title": "From ‘model minority’ to target, anti-Indian hate on the rise - NPR",
+        "summary": "",
+        "source": "NPR",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk1mcXJLUUxFSlhIeFpJN2hvWm51LXF0YzBiTEs0R0tHMFpQU1hvZVhPUEIwQUotczBNdzBqZjQ3VlJacU9hRG9OUVpZYU1NRWVkc1RRXzJvTXZqMjNpSWRPclk2Q25Ea0JMWF9kYm9FODdwRUc0Tm92WTlDcUY1NVJiNGxKN2pvWVoxQ2dQLUZzandLQTdxbDB3bV9TbzRfQXNFeVlB?oc=5"
+      },
+      {
+        "tag": "Tracking",
+        "title": "‘The Indian Question’: The Rise of Anti-Indian Hate in America - The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "summary": "",
+        "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRl9jdm5STlFueXNqYy04cHVTbVA0eHJMUGlzT1lkOUVlalZTcVBMSlhzUXFrNWZYZVVwRnYwdV90TUxIcHFzVkV4SERCUUVrb0Y0a2h1c3FNd01hOHBmeURDUUREd0RkTVNlZnM3ZWtvNDJ0T1B5RUJzdUFMZ3JJT214ZHNLMlo2UEVxWlFnbHRWV2dkRWxn?oc=5"
+      },
+      {
+        "tag": "Tracking",
+        "title": "‘There’s a lot of hate’: rightwing racism stirs south Asian mobilization in Texas - The Guardian",
+        "summary": "",
+        "source": "The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VT2tIdV9yUFNEb1Z1aVlmdFM3UXZOSXZLZzE3S0lLMTF6Y1lCbGduMk40ak8tb2RQc2MwYkdMeWRMaDFjeTdRSHhFa0E3enVDQ1dPNi1vMVBtVEFxemJxSzRYRlRyQUo3VmU3RjVrYk9qUWEyV0dhU1B2Rzk?oc=5"
+      }
+    ]
+  },
+  "sports": {
+    "mavericks": {
+      "headline": "Dallas Mavericks host Utah Jazz Friday for NBA Cup group stage game - NBC 5 Dallas-Fort Worth",
+      "summary": "",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNktjalRqam16NzZfMktITXlOa2Y1aEptcWpNU0FOUlRhemktZVhXOUc2OHpHLTMwdTlOZXRXNEZiQ1Y3YXJhOFAyczFXS2RZcHV5bzBZWVNFNXhzSG5IdklCaGJwdERseXgyaE1ocDB2VWxKbHdwQWFyb0FJMzlyOGRMdWNVNmhBVkNxRmJBSFZpNTNydjVzekF1M2Vhb19BZHZoa1VMTXVnZ0YzOHpjMVY4WFZwVDBrT3UxaktmWlXSAcgBQVVfeXFMTmVOS2VmVWFQVzNEb0dtQUd6bHBqSDdDaUxRX1p3RS1nd3BYYWdfWS1UZ2Y2d1ZEZ2E2dU5yNlRsQnNlT0EwMWUxNUdJb2RJYXFhX2p2TGYwNzJtek5saDNxR2RRQ1piMTd1Z3YwaHd6UnFWODNSX2pBb3p1WGtlMmVEam04QlY0REowV1p2OE4zcEYtMGc3akdXUlc5VG9PS2UxOUcyaUxpSTFHSGpKWW90QzNGcGM4MWR3amdPTVVJNllfWDJGelc?oc=5"
+    },
+    "cowboys": {
+      "headline": "Skip Bayless makes tasteless joke about Dallas Cowboys players on ‘First Take’ - Yahoo Sports",
+      "summary": "",
+      "source": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVBjamc5NUtZOEppMXc1VDBMNlFnVlFMTW5EMUdWMGNmRUVHMkRiSUlIcXZnd1FqUEY5R0JoSEpNd3ZCM0xWbkxXMHRScDRISVVqMzFMUGkyV25IVm42S21xQmZpbnkwNEt3SUtjenIzaHVvYUhDUVhtX0xKblh2d184UUhtVm9QSHc?oc=5"
+    },
+    "longhorns": {
+      "headline": "Soccer lands three on All-SEC teams - University of Texas Athletics",
+      "summary": "Soccer lands three on All-SEC teams University of Texas Athletics",
+      "source": "University of Texas Athletics",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXRtbXFWODZKYVN4ZE85aWZraU9qNnd1eF9nS1RfNHZGNThwWElyZm92NDNDYndvWDhDZElTRS1EREdsWWdMaW9rSWh3RjZPSnJrbEFnbEFFSDhTTGdKSlRUTXFBdnF3UHYtODl0eHNXNi0tcThVeHVNZTBlLUdRcFhpMA?oc=5"
+    }
+  }
+}
