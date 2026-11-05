@@ -1,0 +1,36 @@
+name: Daily News Agent Update
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run News Search Agent
+        env:
+          SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit and push updated news.json
+        run: |
+          git config --global user.name "Daily News Bot"
+          git config --global user.email "bot@github.com"
+          git add news.json
+          git commit -m "Auto-update daily news [skip ci]" || exit 0
+          git push
