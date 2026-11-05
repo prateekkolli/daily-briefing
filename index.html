@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Daily Briefing - Simplified</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'] },
+          keyframes: {
+            marquee: { '0%': { transform: 'translateX(0)' }, '100%': { transform: 'translateX(-50%)' } },
+            fadeUp: { '0%': { opacity: 0, transform: 'translateY(8px)' }, '100%': { opacity: 1, transform: 'translateY(0)' } }
+          },
+          animation: {
+            marquee: 'marquee 40s linear infinite',
+            fadeUp: 'fadeUp .5s ease-out both'
+          }
+        }
+      }
+    };
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    body { background: radial-gradient(1200px 600px at 10% -10%, rgba(99,102,241,.15), transparent 60%), #020617; }
+    .card { background: linear-gradient(180deg, rgba(30,41,59,.55), rgba(15,23,42,.75)); }
+    .marquee:hover .animate-marquee { animation-play-state: paused; }
+    @media (prefers-reduced-motion: reduce) { .animate-marquee, .animate-fadeUp { animation: none !important; } }
+    :focus-visible { outline: 2px solid #818cf8; outline-offset: 3px; border-radius: 6px; }
+  </style>
+</head>
+
+<body class="min-h-screen text-slate-200 font-sans antialiased selection:bg-indigo-500/40">
+  <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 bg-indigo-600 text-white px-3 py-2 rounded-lg">Skip to content</a>
+
+  <!-- ===== Header ===== -->
+  <header class="max-w-7xl mx-auto px-5 sm:px-8 pt-12 pb-8">
+    <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-6">
+      <div>
+        <div class="flex flex-wrap items-center gap-3 mb-4">
+          <span class="inline-flex items-center gap-2 rounded-full border border-indigo-400/30 bg-indigo-500/10 px-3 py-1 text-xs font-semibold tracking-wide text-indigo-300 uppercase">
+            <span class="h-1.5 w-1.5 rounded-full bg-indigo-400 animate-pulse"></span>
+            Updated Daily
+          </span>
+          <span id="dateBadge" class="rounded-full border border-slate-700 bg-slate-800/60 px-3 py-1 text-xs font-medium text-slate-300"></span>
+          <span id="statusPill" class="rounded-full border border-amber-400/30 bg-amber-500/10 px-3 py-1 text-xs font-medium text-amber-300">Sample content</span>
+        </div>
+        <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight text-white">
+          My Daily Briefing <span class="text-indigo-400">-</span> <span class="bg-gradient-to-r from-indigo-300 to-sky-300 bg-clip-text text-transparent">Simplified</span>
+        </h1>
+        <p class="mt-3 max-w-2xl text-slate-400 text-lg leading-relaxed">
+          Today's news in plain English. No jargon, no noise, just what matters and why.
+        </p>
+      </div>
+      <nav aria-label="Sections" class="flex flex-wrap gap-2 text-sm">
+        <a href="#tech" class="px-3 py-1.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 text-slate-300">Tech</a>
+        <a href="#economy" class="px-3 py-1.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 text-slate-300">Money</a>
+        <a href="#politics" class="px-3 py-1.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 text-slate-300">Politics</a>
+        <a href="#social" class="px-3 py-1.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 text-slate-300">Social</a>
+        <a href="#sports" class="px-3 py-1.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 text-slate-300">Sports</a>
+        <a href="#science" class="px-3 py-1.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 text-slate-300">Science</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== Breaking Sports Banner ===== -->
+  <div class="max-w-7xl mx-auto px-5 sm:px-8 mb-8">
+    <div class="marquee relative flex items-center overflow-hidden rounded-2xl border border-rose-500/30 bg-rose-500/10" role="region" aria-label="Breaking sports">
+      <span class="z-10 shrink-0 flex items-center gap-2 bg-rose-600 px-4 py-3 text-xs font-bold uppercase tracking-wider text-white">
+        <span class="h-2 w-2 rounded-full bg-white animate-pulse"></span> Breaking Sports
+      </span>
+      <div class="overflow-hidden flex-1">
+        <div id="breakingTrack" class="flex w-max animate-marquee whitespace-nowrap py-3 text-sm font-medium text-rose-100"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Main Grid ===== -->
+  <main id="main" class="max-w-7xl mx-auto px-5 sm:px-8 pb-20 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+
+    <!-- Tech & AI -->
+    <section id="tech" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20">
+      <header class="flex items-center gap-3 mb-5">
+        <span class="grid h-10 w-10 place-items-center rounded-xl bg-indigo-500/15 text-xl" aria-hidden="true">🤖</span>
+        <div>
+          <h2 class="text-lg font-bold text-white">Tech &amp; AI</h2>
+          <p class="text-xs text-slate-400">The latest, minus the jargon</p>
+        </div>
+      </header>
+      <div id="tech-list" class="space-y-4"></div>
+    </section>
+
+    <!-- Economy -->
+    <section id="economy" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20" style="animation-delay:.05s">
+      <header class="flex items-center gap-3 mb-5">
+        <span class="grid h-10 w-10 place-items-center rounded-xl bg-emerald-500/15 text-xl" aria-hidden="true">💵</span>
+        <div>
+          <h2 class="text-lg font-bold text-white">Economy &amp; Personal Finance</h2>
+          <p class="text-xs text-slate-400">What's changing and what it means for your wallet</p>
+        </div>
+      </header>
+      <div id="economy-list" class="space-y-4"></div>
+    </section>
+
+    <!-- Politics (spans 2 on xl) -->
+    <section id="politics" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20 md:col-span-2 xl:col-span-1 xl:row-span-2" style="animation-delay:.1s">
+      <header class="flex items-center gap-3 mb-5">
+        <span class="grid h-10 w-10 place-items-center rounded-xl bg-sky-500/15 text-xl" aria-hidden="true">🏛️</span>
+        <div>
+          <h2 class="text-lg font-bold text-white">Politics</h2>
+          <p class="text-xs text-slate-400">Explained like you're brand new to it</p>
+        </div>
+      </header>
+      <div id="politics-list" class="space-y-4"></div>
+
+      <div class="mt-6 rounded-2xl border border-orange-400/25 bg-orange-500/5 p-5">
+        <h3 class="flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-orange-300">
+          <span aria-hidden="true">⭐</span> Texas Politics
+        </h3>
+        <div id="texas-list" class="mt-4 space-y-4"></div>
+      </div>
+    </section>
+
+    <!-- Social Issues -->
+    <section id="social" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20" style="animation-delay:.15s">
+      <header class="flex items-center gap-3 mb-5">
+        <span class="grid h-10 w-10 place-items-center rounded-xl bg-violet-500/15 text-xl" aria-hidden="true">🤝</span>
+        <div>
+          <h2 class="text-lg font-bold text-white">Social Issues</h2>
+          <p class="text-xs text-slate-400">Tracking anti-Indian hate &amp; racism</p>
+        </div>
+      </header>
+      <div id="social-list" class="space-y-4"></div>
+      <div id="social-resources" class="mt-5 border-t border-slate-800 pt-4"></div>
+    </section>
+
+    <!-- Science -->
+    <section id="science" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20" style="animation-delay:.2s">
+      <header class="flex items-center gap-3 mb-5">
+        <span class="grid h-10 w-10 place-items-center rounded-xl bg-teal-500/15 text-xl" aria-hidden="true">🔬</span>
+        <div>
+          <h2 class="text-lg font-bold text-white">Cool Facts &amp; Science</h2>
+          <p class="text-xs text-slate-400">Fascinating things, broken down</p>
+        </div>
+      </header>
+      <div id="science-list" class="space-y-4"></div>
+    </section>
+
+    <!-- Sports (full width) -->
+    <section id="sports" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20 md:col-span-2 xl:col-span-3" style="animation-delay:.25s">
+      <header class="flex items-center gap-3 mb-5">
+        <span class="grid h-10 w-10 place-items-center rounded-xl bg-rose-500/15 text-xl" aria-hidden="true">🏆</span>
+        <div>
+          <h2 class="text-lg font-bold text-white">Sports Curation</h2>
+          <p class="text-xs text-slate-400">Your teams, front and center</p>
+        </div>
+      </header>
+      <div id="sports-grid" class="grid gap-4 md:grid-cols-3"></div>
+    </section>
+  </main>
+
+  <footer class="border-t border-slate-800/80 py-8 text-center text-xs text-slate-500">
+    <p>My Daily Briefing - Simplified · Content loads from <code class="text-slate-400">news.json</code> · <span id="lastUpdated"></span></p>
+  </footer>
+
+  <script>
+    /* =========================================================
+       news.json schema (all keys optional; missing ones fall back to mock)
+       {
+         "updated": "2026-11-04T07:00:00",
+         "breakingSports": ["Headline one", "Headline two"],
+         "tech":     [{ "title": "", "summary": "", "why": "", "tag": "" }],
+         "economy":  [{ "title": "", "summary": "", "why": "", "tag": "" }],
+         "politics": { "national": [ {...} ], "texas": [ {...} ] },
+         "social":   { "items": [ {...} ], "resources": [{ "label": "", "url": "" }] },
+         "sports":   {
+           "mavericks": { "headline": "", "summary": "", "next": "" },
+           "cowboys":   { "headline": "", "summary": "", "next": "" },
+           "longhorns": { "headline": "", "summary": "", "next": "" }
+         },
+         "science":  [{ "title": "", "summary": "", "why": "", "tag": "" }]
+       }
+    ========================================================= */
+
+    const MOCK = {
+      updated: null,
+      breakingSports: [
+        "🏀 Mavericks: Rotation notes and injury updates will appear here each morning",
+        "🏈 Cowboys: Weekly game preview and key matchup breakdown",
+        "🤘 Longhorns: Ranking movement and conference race explained",
+        "⚡ Add live headlines to news.json → breakingSports"
+      ],
+      tech: [
+        { tag: "AI", title: "AI assistants are learning to do tasks, not just answer questions",
+          summary: "Think of older chatbots as a really smart encyclopedia. Newer ones are more like an intern: you give them a goal ('plan my trip'), and they take the steps themselves, like searching, comparing and filling in forms.",
+          why: "You'll see more apps that do things for you, so it matters which ones you trust with your accounts." },
+        { tag: "Phones", title: "More AI is running directly on your phone",
+          summary: "Instead of sending everything to a far-away computer, phones now have chips that handle AI themselves. It's like having a calculator in your pocket instead of calling someone to do the math.",
+          why: "Faster responses, and more of your data stays on your device." },
+        { tag: "Safety", title: "Fake AI voices and videos are getting harder to spot",
+          summary: "AI can copy a person's voice from a short clip. Scammers use this to pretend to be family members asking for money.",
+          why: "Agree on a family 'code word' for emergencies, and hang up and call back if something feels off." }
+      ],
+      economy: [
+        { tag: "Rates", title: "What interest rates actually mean for you",
+          summary: "The interest rate is the 'price of borrowing money.' When the Federal Reserve raises it, loans and credit cards cost more. When it lowers it, borrowing gets cheaper, but savings accounts pay a bit less.",
+          why: "Paying off high-interest credit card debt is the best 'guaranteed return' you can get." },
+        { tag: "Prices", title: "Inflation, in one sentence",
+          summary: "Inflation is when the same $20 buys you less than it did last year. Most economists aim for about 2% a year, so prices rise slowly but don't spike.",
+          why: "If your pay doesn't rise at least as fast as prices, you're effectively getting a pay cut." },
+        { tag: "Students", title: "The magic of starting early",
+          summary: "Money invested at 20 has decades to grow on itself (compound interest). Even small amounts in a Roth IRA from a part-time job can become meaningful by retirement.",
+          why: "Time in the market matters more than picking the 'perfect' stock." }
+      ],
+      politics: {
+        national: [
+          { tag: "Basics", title: "The three branches, simplified",
+            summary: "Congress writes the laws. The President carries them out. The courts decide whether laws follow the Constitution. Each one can check the others, so no single group gets all the power.",
+            why: "Most big news stories are really about one branch pushing on another." },
+          { tag: "Congress", title: "House vs. Senate",
+            summary: "The House has 435 members, based on population, elected every 2 years. The Senate has 100 members, 2 per state, serving 6-year terms. A bill has to pass both before the President can sign it.",
+            why: "When a party 'controls' a chamber, it decides which bills even get a vote." },
+          { tag: "Elections", title: "What the 'midterms' are",
+            summary: "Midterms are elections halfway through a President's 4-year term. Every House seat and about a third of the Senate are on the ballot, plus many governors and state offices.",
+            why: "They often decide whether the President's agenda moves forward or stalls." }
+        ],
+        texas: [
+          { tag: "Austin", title: "How Texas government is set up",
+            summary: "Texas has a Governor, but the Lieutenant Governor is unusually powerful because they run the state Senate. The Legislature meets only every other year, for 140 days.",
+            why: "Most big Texas laws pass in a short burst, so watch the session calendar." },
+          { tag: "Local", title: "Why local races matter most day-to-day",
+            summary: "City councils, county commissioners and school boards decide property taxes, roads, policing and what's taught in schools, often with very low voter turnout.",
+            why: "A handful of votes can swing a local race." }
+        ]
+      },
+      social: {
+        items: [
+          { tag: "Tracking", title: "Anti-Indian and anti-South Asian hate: what's being tracked",
+            summary: "Advocacy groups and researchers track online harassment, workplace discrimination and physical incidents aimed at Indian and South Asian Americans, including attacks on Hindu temples and Sikh gurdwaras. Today's incidents and reports will appear here.",
+            why: "Tracking patterns helps communities push for protections and media attention." },
+          { tag: "Online", title: "How online hate spreads",
+            summary: "Hateful posts often spread through jokes, memes and 'just asking questions' framing, which makes them feel harmless. Platform algorithms can then push the most outrageous posts the furthest.",
+            why: "Reporting and not engaging (no quote-tweeting) starves posts of reach." },
+          { tag: "Rights", title: "Your rights at work and school",
+            summary: "Federal law (Title VII and Title VI) bans discrimination based on race, national origin or religion at work and at schools that receive federal funding.",
+            why: "Write down dates, names and screenshots. Records make complaints much stronger." }
+        ],
+        resources: [
+          { label: "Report a hate crime: FBI", url: "https://tips.fbi.gov" },
+          { label: "Workplace discrimination: EEOC", url: "https://www.eeoc.gov/filing-charge-discrimination" },
+          { label: "Stop AAPI Hate reporting", url: "https://stopaapihate.org" }
+        ]
+      },
+      sports: {
+        mavericks: { headline: "Mavericks game recap goes here",
+          summary: "A plain-English breakdown of the last game: who stood out, what went wrong and what it means for the standings.",
+          next: "Next game: add to news.json" },
+        cowboys: { headline: "Cowboys weekly breakdown goes here",
+          summary: "What happened on Sunday in 3 sentences, plus the one stat that actually explains the result.",
+          next: "Next game: add to news.json" },
+        longhorns: { headline: "Longhorns update goes here",
+          summary: "Where Texas stands in the rankings and the conference race, and what has to happen for the playoff picture.",
+          next: "Next game: add to news.json" }
+      },
+      science: [
+        { tag: "Food Safety", title: "Why leaving cooked rice out can make you sick",
+          summary: "Raw rice often carries spores of Bacillus cereus, a bacterium. The spores are tough and survive cooking. If cooked rice sits at room temperature, the spores 'wake up,' multiply and release a toxin that heat doesn't destroy. Reheating can kill the bacteria, but the toxin stays.",
+          why: "Cool rice and get it in the fridge within about an hour, and eat leftovers within a day or so." },
+        { tag: "Space", title: "You're looking at the past when you see stars",
+          summary: "Light takes time to travel. Light from the Sun is about 8 minutes old when it reaches you. Some starlight left its star thousands of years ago.",
+          why: "A star you see tonight might not even exist anymore." },
+        { tag: "Body", title: "Your stomach replaces its lining every few days",
+          summary: "Stomach acid is strong enough to dissolve metal over time. Your body protects itself by constantly making new mucus and replacing lining cells.",
+          why: "This is why ulcers happen when that protection breaks down." }
+      ]
+    };
+
+    // ---------- Helpers ----------
+    const $ = (id) => document.getElementById(id);
+    const esc = (s = "") => String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+    const safeUrl = (u = "") => /^https?:\/\//i.test(u) ? u : "#";
+
+    const TAG_COLORS = {
+      default: "bg-indigo-500/15 text-indigo-300 border-indigo-400/20"
+    };
+
+    function itemHTML(item, accent = "indigo") {
+      return `
+        <article class="group rounded-2xl border border-slate-800 bg-slate-900/50 p-4 transition hover:border-${accent}-400/40 hover:bg-slate-900/80">
+          ${item.tag ? `<span class="inline-block mb-2 rounded-md border px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wider bg-${accent}-500/10 text-${accent}-300 border-${accent}-400/20">${esc(item.tag)}</span>` : ""}
+          <h3 class="font-semibold text-white leading-snug">${esc(item.title)}</h3>
+          <p class="mt-2 text-sm leading-relaxed text-slate-300">${esc(item.summary)}</p>
+          ${item.why ? `
+            <p class="mt-3 flex gap-2 rounded-xl bg-slate-800/60 px-3 py-2 text-[13px] leading-relaxed text-slate-300">
+              <span class="font-semibold text-${accent}-300 shrink-0">Why it matters:</span>
+              <span>${esc(item.why)}</span>
+            </p>` : ""}
+        </article>`;
+    }
+
+    function renderList(id, items, accent) {
+      const el = $(id);
+      if (!el || !Array.isArray(items)) return;
+      el.innerHTML = items.map(i => itemHTML(i, accent)).join("");
+    }
+
+    function renderBreaking(lines) {
+      const list = (lines && lines.length ? lines : MOCK.breakingSports);
+      const chunk = list.map(l => `<span class="mx-8">${esc(l)}</span><span class="text-rose-400/60">•</span>`).join("");
+      $("breakingTrack").innerHTML = chunk + chunk; // duplicated for seamless loop
+    }
+
+    function renderSports(s) {
+      const teams = [
+        { key: "mavericks", name: "Dallas Mavericks", league: "NBA", emoji: "🏀", ring: "from-blue-500/30 to-sky-500/10", accent: "text-sky-300" },
+        { key: "cowboys",   name: "Dallas Cowboys",   league: "NFL", emoji: "🏈", ring: "from-slate-400/30 to-blue-900/20", accent: "text-blue-300" },
+        { key: "longhorns", name: "Texas Longhorns",  league: "NCAA", emoji: "🤘", ring: "from-orange-500/30 to-amber-600/10", accent: "text-orange-300" }
+      ];
+      $("sports-grid").innerHTML = teams.map(t => {
+        const d = (s && s[t.key]) || MOCK.sports[t.key];
+        return `
+          <article class="relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900/60 p-5">
+            <div class="pointer-events-none absolute -top-16 -right-16 h-40 w-40 rounded-full bg-gradient-to-br ${t.ring} blur-2xl"></div>
+            <div class="relative flex items-center justify-between">
+              <div class="flex items-center gap-2">
+                <span class="text-2xl" aria-hidden="true">${t.emoji}</span>
+                <h3 class="font-bold text-white">${t.name}</h3>
+              </div>
+              <span class="rounded-md bg-slate-800 px-2 py-0.5 text-[11px] font-semibold tracking-wider ${t.accent}">${t.league}</span>
+            </div>
+            <p class="relative mt-4 font-semibold text-slate-100 leading-snug">${esc(d.headline)}</p>
+            <p class="relative mt-2 text-sm leading-relaxed text-slate-300">${esc(d.summary)}</p>
+            ${d.next ? `<p class="relative mt-4 text-xs font-medium text-slate-400">📅 ${esc(d.next)}</p>` : ""}
+          </article>`;
+      }).join("");
+    }
+
+    function renderResources(resources) {
+      const list = resources && resources.length ? resources : MOCK.social.resources;
+      $("social-resources").innerHTML = `
+        <p class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-2">Report &amp; get help</p>
+        <ul class="flex flex-wrap gap-2">
+          ${list.map(r => `<li><a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener noreferrer"
+              class="inline-flex items-center gap-1 rounded-lg border border-violet-400/20 bg-violet-500/10 px-3 py-1.5 text-xs font-medium text-violet-200 hover:bg-violet-500/20">${esc(r.label)} ↗</a></li>`).join("")}
+        </ul>`;
+    }
+
+    function renderDate(updated) {
+      const d = updated ? new Date(updated) : new Date();
+      const valid = !isNaN(d);
+      const nice = (valid ? d : new Date()).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric", year: "numeric" });
+      $("dateBadge").textContent = nice;
+      $("lastUpdated").textContent = updated && valid
+        ? `Last updated ${d.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}`
+        : "Showing sample content";
+    }
+
+    function renderAll(data) {
+      const pick = (v, fb) => (Array.isArray(v) && v.length ? v : fb);
+      renderDate(data.updated);
+      renderBreaking(data.breakingSports);
+      renderList("tech-list",     pick(data.tech, MOCK.tech), "indigo");
+      renderList("economy-list",  pick(data.economy, MOCK.economy), "emerald");
+      renderList("politics-list", pick(data.politics?.national, MOCK.politics.national), "sky");
+      renderList("texas-list",    pick(data.politics?.texas, MOCK.politics.texas), "orange");
+      renderList("social-list",   pick(data.social?.items, MOCK.social.items), "violet");
+      renderResources(data.social?.resources);
+      renderList("science-list",  pick(data.science, MOCK.science), "teal");
+      renderSports(data.sports);
+    }
+
+    function setStatus(live) {
+      const pill = $("statusPill");
+      pill.textContent = live ? "Live from news.json" : "Sample content";
+      pill.className = live
+        ? "rounded-full border border-emerald-400/30 bg-emerald-500/10 px-3 py-1 text-xs font-medium text-emerald-300"
+        : "rounded-full border border-amber-400/30 bg-amber-500/10 px-3 py-1 text-xs font-medium text-amber-300";
+    }
+
+    // ---------- Boot: render mock instantly, then try live data ----------
+    renderAll(MOCK);
+
+    (async function loadNews() {
+      try {
+        const res = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        renderAll(data);
+        setStatus(true);
+      } catch (err) {
+        console.info("[Briefing] news.json not available, showing sample content:", err.message);
+        setStatus(false);
+      }
+    })();
+  </script>
+</body>
+</html>
