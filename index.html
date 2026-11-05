@@ -81,7 +81,6 @@
   <!-- ===== Main Grid ===== -->
   <main id="main" class="max-w-7xl mx-auto px-5 sm:px-8 pb-20 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
 
-    <!-- Tech & AI -->
     <section id="tech" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20">
       <header class="flex items-center gap-3 mb-5">
         <span class="grid h-10 w-10 place-items-center rounded-xl bg-indigo-500/15 text-xl" aria-hidden="true">🤖</span>
@@ -93,7 +92,6 @@
       <div id="tech-list" class="space-y-4"></div>
     </section>
 
-    <!-- Economy -->
     <section id="economy" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20" style="animation-delay:.05s">
       <header class="flex items-center gap-3 mb-5">
         <span class="grid h-10 w-10 place-items-center rounded-xl bg-emerald-500/15 text-xl" aria-hidden="true">💵</span>
@@ -105,7 +103,6 @@
       <div id="economy-list" class="space-y-4"></div>
     </section>
 
-    <!-- Politics (spans 2 on xl) -->
     <section id="politics" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20 md:col-span-2 xl:col-span-1 xl:row-span-2" style="animation-delay:.1s">
       <header class="flex items-center gap-3 mb-5">
         <span class="grid h-10 w-10 place-items-center rounded-xl bg-sky-500/15 text-xl" aria-hidden="true">🏛️</span>
@@ -124,7 +121,6 @@
       </div>
     </section>
 
-    <!-- Social Issues -->
     <section id="social" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20" style="animation-delay:.15s">
       <header class="flex items-center gap-3 mb-5">
         <span class="grid h-10 w-10 place-items-center rounded-xl bg-violet-500/15 text-xl" aria-hidden="true">🤝</span>
@@ -137,7 +133,6 @@
       <div id="social-resources" class="mt-5 border-t border-slate-800 pt-4"></div>
     </section>
 
-    <!-- Science -->
     <section id="science" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20" style="animation-delay:.2s">
       <header class="flex items-center gap-3 mb-5">
         <span class="grid h-10 w-10 place-items-center rounded-xl bg-teal-500/15 text-xl" aria-hidden="true">🔬</span>
@@ -149,7 +144,6 @@
       <div id="science-list" class="space-y-4"></div>
     </section>
 
-    <!-- Sports (full width) -->
     <section id="sports" class="card animate-fadeUp rounded-3xl border border-slate-800 p-6 shadow-xl shadow-black/20 md:col-span-2 xl:col-span-3" style="animation-delay:.25s">
       <header class="flex items-center gap-3 mb-5">
         <span class="grid h-10 w-10 place-items-center rounded-xl bg-rose-500/15 text-xl" aria-hidden="true">🏆</span>
@@ -167,23 +161,15 @@
   </footer>
 
   <script>
-    /* =========================================================
-       news.json schema (all keys optional; missing ones fall back to mock)
+    /* news.json schema (all keys optional; missing ones fall back to mock)
        {
-         "updated": "2026-11-04T07:00:00",
-         "breakingSports": ["Headline one", "Headline two"],
-         "tech":     [{ "title": "", "summary": "", "why": "", "tag": "" }],
-         "economy":  [{ "title": "", "summary": "", "why": "", "tag": "" }],
-         "politics": { "national": [ {...} ], "texas": [ {...} ] },
-         "social":   { "items": [ {...} ], "resources": [{ "label": "", "url": "" }] },
-         "sports":   {
-           "mavericks": { "headline": "", "summary": "", "next": "" },
-           "cowboys":   { "headline": "", "summary": "", "next": "" },
-           "longhorns": { "headline": "", "summary": "", "next": "" }
-         },
-         "science":  [{ "title": "", "summary": "", "why": "", "tag": "" }]
-       }
-    ========================================================= */
+         "updated": "ISO date",
+         "breakingSports": ["..."],
+         "tech" | "economy" | "science": [{ "title","summary","why","tag","source","link" }],
+         "politics": { "national": [...], "texas": [...] },
+         "social":   { "items": [...], "resources": [{ "label","url" }] },
+         "sports":   { "mavericks" | "cowboys" | "longhorns": { "headline","summary","next","source","link" } }
+       } */
 
     const MOCK = {
       updated: null,
@@ -191,7 +177,7 @@
         "🏀 Mavericks: Rotation notes and injury updates will appear here each morning",
         "🏈 Cowboys: Weekly game preview and key matchup breakdown",
         "🤘 Longhorns: Ranking movement and conference race explained",
-        "⚡ Add live headlines to news.json → breakingSports"
+        "⚡ Run build_news.py to load live headlines"
       ],
       tech: [
         { tag: "AI", title: "AI assistants are learning to do tasks, not just answer questions",
@@ -283,21 +269,27 @@
     const esc = (s = "") => String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
     const safeUrl = (u = "") => /^https?:\/\//i.test(u) ? u : "#";
 
-    const TAG_COLORS = {
-      default: "bg-indigo-500/15 text-indigo-300 border-indigo-400/20"
-    };
+    function sourceLine(item, accent) {
+      if (!item.source && !item.link) return "";
+      return `
+        <div class="mt-3 flex items-center justify-between text-xs text-slate-400">
+          <span>${item.source ? esc(item.source) : ""}</span>
+          ${item.link ? `<a href="${esc(safeUrl(item.link))}" target="_blank" rel="noopener noreferrer" class="font-medium text-${accent}-300 hover:underline">Read more ↗</a>` : ""}
+        </div>`;
+    }
 
     function itemHTML(item, accent = "indigo") {
       return `
         <article class="group rounded-2xl border border-slate-800 bg-slate-900/50 p-4 transition hover:border-${accent}-400/40 hover:bg-slate-900/80">
           ${item.tag ? `<span class="inline-block mb-2 rounded-md border px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wider bg-${accent}-500/10 text-${accent}-300 border-${accent}-400/20">${esc(item.tag)}</span>` : ""}
           <h3 class="font-semibold text-white leading-snug">${esc(item.title)}</h3>
-          <p class="mt-2 text-sm leading-relaxed text-slate-300">${esc(item.summary)}</p>
+          ${item.summary ? `<p class="mt-2 text-sm leading-relaxed text-slate-300">${esc(item.summary)}</p>` : ""}
           ${item.why ? `
             <p class="mt-3 flex gap-2 rounded-xl bg-slate-800/60 px-3 py-2 text-[13px] leading-relaxed text-slate-300">
               <span class="font-semibold text-${accent}-300 shrink-0">Why it matters:</span>
               <span>${esc(item.why)}</span>
             </p>` : ""}
+          ${sourceLine(item, accent)}
         </article>`;
     }
 
@@ -310,14 +302,14 @@
     function renderBreaking(lines) {
       const list = (lines && lines.length ? lines : MOCK.breakingSports);
       const chunk = list.map(l => `<span class="mx-8">${esc(l)}</span><span class="text-rose-400/60">•</span>`).join("");
-      $("breakingTrack").innerHTML = chunk + chunk; // duplicated for seamless loop
+      $("breakingTrack").innerHTML = chunk + chunk;
     }
 
     function renderSports(s) {
       const teams = [
-        { key: "mavericks", name: "Dallas Mavericks", league: "NBA", emoji: "🏀", ring: "from-blue-500/30 to-sky-500/10", accent: "text-sky-300" },
-        { key: "cowboys",   name: "Dallas Cowboys",   league: "NFL", emoji: "🏈", ring: "from-slate-400/30 to-blue-900/20", accent: "text-blue-300" },
-        { key: "longhorns", name: "Texas Longhorns",  league: "NCAA", emoji: "🤘", ring: "from-orange-500/30 to-amber-600/10", accent: "text-orange-300" }
+        { key: "mavericks", name: "Dallas Mavericks", league: "NBA", emoji: "🏀", ring: "from-blue-500/30 to-sky-500/10", accent: "sky" },
+        { key: "cowboys",   name: "Dallas Cowboys",   league: "NFL", emoji: "🏈", ring: "from-slate-400/30 to-blue-900/20", accent: "blue" },
+        { key: "longhorns", name: "Texas Longhorns",  league: "NCAA", emoji: "🤘", ring: "from-orange-500/30 to-amber-600/10", accent: "orange" }
       ];
       $("sports-grid").innerHTML = teams.map(t => {
         const d = (s && s[t.key]) || MOCK.sports[t.key];
@@ -329,11 +321,12 @@
                 <span class="text-2xl" aria-hidden="true">${t.emoji}</span>
                 <h3 class="font-bold text-white">${t.name}</h3>
               </div>
-              <span class="rounded-md bg-slate-800 px-2 py-0.5 text-[11px] font-semibold tracking-wider ${t.accent}">${t.league}</span>
+              <span class="rounded-md bg-slate-800 px-2 py-0.5 text-[11px] font-semibold tracking-wider text-${t.accent}-300">${t.league}</span>
             </div>
             <p class="relative mt-4 font-semibold text-slate-100 leading-snug">${esc(d.headline)}</p>
-            <p class="relative mt-2 text-sm leading-relaxed text-slate-300">${esc(d.summary)}</p>
+            ${d.summary ? `<p class="relative mt-2 text-sm leading-relaxed text-slate-300">${esc(d.summary)}</p>` : ""}
             ${d.next ? `<p class="relative mt-4 text-xs font-medium text-slate-400">📅 ${esc(d.next)}</p>` : ""}
+            <div class="relative">${sourceLine(d, t.accent)}</div>
           </article>`;
       }).join("");
     }
@@ -351,8 +344,7 @@
     function renderDate(updated) {
       const d = updated ? new Date(updated) : new Date();
       const valid = !isNaN(d);
-      const nice = (valid ? d : new Date()).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric", year: "numeric" });
-      $("dateBadge").textContent = nice;
+      $("dateBadge").textContent = (valid ? d : new Date()).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric", year: "numeric" });
       $("lastUpdated").textContent = updated && valid
         ? `Last updated ${d.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}`
         : "Showing sample content";
@@ -387,8 +379,7 @@
       try {
         const res = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        renderAll(data);
+        renderAll(await res.json());
         setStatus(true);
       } catch (err) {
         console.info("[Briefing] news.json not available, showing sample content:", err.message);
