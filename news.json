@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-08T17:16:45",
+  "updated": "2026-11-09T21:40:06",
   "tech": [
     {
       "tag": "AI",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently,…",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like…",
       "source": "",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
     },
     {
       "tag": "AI",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a…",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
     },
     {
       "tag": "AI",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re…",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option…",
       "source": "",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "Economist discusses taxing the ultra wealthy and their impact on the economy",
+      "summary": "NPR's Steve Inskeep speaks with economist and wealth tax expert Gabriel Zucman about millionaire and billionaire taxes and their impact on the economy.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6032701/economist-discusses-taxing-the-ultra-wealthy-and-their-impact-on-the-economy"
+    },
     {
       "tag": "Economy",
       "title": "Can Congress fix affordability? MIT's Daron Acemoglu weighs in",
@@ -37,76 +44,69 @@
       "summary": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%.",
       "source": "",
       "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation"
-    },
-    {
-      "tag": "Economy",
-      "title": "Why gold prices are surprisingly low",
-      "summary": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What's going on?",
-      "source": "",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low"
     }
   ],
   "science": [
+    {
+      "tag": "Science",
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a…",
+      "source": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+    },
+    {
+      "tag": "Science",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+      "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a…",
+      "source": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
+    },
     {
       "tag": "Science",
       "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
       "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's…",
       "source": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
-    },
-    {
-      "tag": "Science",
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection…",
-      "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
-    },
-    {
-      "tag": "Science",
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the…",
-      "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-        "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+        "title": "Stephen Miller is now chief of staff. What does that mean for Trump?",
+        "summary": "NPR's Sacha Pfeiffer speaks with Chris Whipple, an expert on White House chiefs of staff who has written extensively about Susie Wiles, about Trump's appointment of Stephen Miller.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump"
       },
       {
         "tag": "National",
-        "title": "NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad",
-        "summary": "The results of the U.S. midterms were closely followed overseas. NPR correspondents in Moscow and Beijing discuss how the elections are seen in the countries they cover.",
+        "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+        "summary": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad"
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
       },
       {
         "tag": "National",
-        "title": "Republican consultant discusses what went wrong and what's next for the GOP",
-        "summary": "NPR's Ayesha Rascoe speaks to Hogan Gidley, a Republican consultant and former White House Deputy Press Secretary during the first Trump administration, about the GOP's post-midterm strategy.",
+        "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+        "summary": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop"
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Behind the Curtain: Texas is the #1 story of America - Axios",
+        "title": "Texas Democrats set sights on 2027 legislative session as bill filing begins - Houston Public Media",
         "summary": "",
-        "source": "Axios",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pdzMwMHdiaTVNSURpYWxJZXNHNlI0VEdrY1lZQzFkV3BpdTJtNFhnR2VhZlNIVkRLa2dlVnpGeDlpUFVaeWZHbnJOTDdBeUJfdEhyZDJvTVdKbmwyN0lkQjR3QVZZak9EbjNDbjhhbFc5dVVqRW1jTDFMX2E?oc=5"
+        "source": "Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVlEMXpkYS1GRWxDM1p5WV9WRDZveDNkMGt6ZFRSMkNUQlpZYkVXaVFCMldIOTlteWZhR09HUm0xOTk5LWg3eWY0ZVJZSW1ReG5TV2t0bUJsZi1mQjRPX1dnUzVzVWdVV0xIZVBremJCNUFSV3Y3SnpBNlFhOU03WDJZSWs3LUtQQ1VOZ3NDS1JQN0Z3WkFKUnktUmNpcTllX21PTTI2WUEtV2lwbV80aXJPMGZyTjZKbl9QUGNHY1hxMWZoRDFUdjNMa3F2VnZud1Z1UzNJanVCZHAxSXQ2TVNScXZhVzRU0gHwAUFVX3lxTE5IZXlOVzNzUFIzY2NRa1p5Q294SXZKR3AyaEN4NkpmcHRlOWNKR1lKOTFOdUlzN01yaU1TVGlqUTl1UXAwS1U4b2lJQ3hNLXZGTXhrQTRUX1dnN0VFRHZtVy1CMmRvZDlWRk9sZmU3QkhKeGdBMF9lRWJFVlMySlFfUGJvaE5KNEktaGtlRFVGaTNjQ3dvQ1RMY1lscEZvUDA3S0FHOXJWajh5dzV5d19TeTZCSFIyQ0RxOS1IY0dvMzZpOE55WnVEbjd1QVFNSGN3Ylp0OUNqUjhyaUk2LXFhbXBUSE1XdGwySEZ0UmdUUg?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Inside Texas Politics - newswest9.com",
-        "summary": "Inside Texas Politics newswest9.com",
-        "source": "newswest9.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1Q4ekpDTEw1UWw1czlScHRvNXVXMHRzaTQ4amE2OG96aHRabV9NVGQxcUdWbVZNeTdBLTZXWVV2bjhCU3hvUTZRd2Z3d2RLLXkycHJpc0lpWWpVb3ZDMWZHYjUwR21NYnJXTXY1aDJOaG1wTU94eG9WZm1VX1FJTkFVSS1TRTdEbWtrOEQ5eEQ0eHk5dGRCc1NjVmRnZXlJMkcyWDZyUjczcXNPWUQ4TQ?oc=5"
+        "title": "Crusading Billionaires Tried to Buy Texas This Election. Can Dems Now Do Something About It? - Texas Monthly",
+        "summary": "",
+        "source": "Texas Monthly",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdU1helNtWUR6U3VHVVFYaHFFc3RsUEN4UTcxZGVHRmVYbGgyMmtnTm41Njd3dzNNQzF2X0xjWFBPQm1uR0hKeEFhekRBRHRtdU1KQU9KbXdNZUcyWFUxRm1VZ1RJZzJ4TGx4NXRTNXRkdVpuWXAzTGJVbUFEeXNrNk9Gaw?oc=5"
       }
     ]
   },
@@ -151,22 +151,22 @@
   },
   "sports": {
     "mavericks": {
-      "headline": "Dallas Mavericks and New Balance Announce Multi-Year Agreement - NBA.com",
+      "headline": "Mavericks-Pacers preview: Rookie Johnson already throwing his weight around - NBA.com",
       "summary": "",
       "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzAyX1pMSDFrd0gxUU54ZHppR1NGX1ZlTUxzRG45OEJPdWNFZGVhcG5oV2t3cGV3dW81eVVqQ3JWaVE4d2J5YjlmSm0yaFNMZW5fSXVyMGlHdkdFUVV3ako4cnFUV2ppRU1Db2ZTZV9wTFdQdnR2T0ZsTXJHSUd2ZmxDamJ4amdmZy0tbWlveVlucXk1NXg0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVR4dHpVRzlKeTZwbHliLUNwZ3RZaU8wdDM1dXlDdDNTeEhBQWtvMnc4ci1lX19HZW9Kc083T0RxU1ZLQUdoX0pOaDU1WmxXTzlodkRGMEUwWHJpODRSLUU0S2s4YkstOHAteTVjdmdxemZPWkVvbWhJaTNNU25Gc1ZIeDRqMzBDQWYwSUQ4NWxzbk9FWVYxbGpJeWlZeUlLYUxBY3NtZw?oc=5"
     },
     "cowboys": {
-      "headline": "Dallas Cowboys vs. Indianapolis Colts Predictions: Expert Picks For Week 9 Game - Sports Illustrated",
+      "headline": "Pic 6: Ryan Flournoy's moment, a year of Quinnen Williams, trade deadline and more - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
-      "source": "Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFlfYzc4bUJxOXZUV0k3TlBUajgwUEVVb3c0WDM5TEN0TmtxbHdEajR1WDNDclVQSVRsWjhUOUxwdEpaMEFlUThnN0JwRHZ2RWh2aEtFTHRxMmcxN3pLTjlfbEVXLW9VdXNVZC15bVUwSk5IR05lMDZXZEk5WVkxd25NVGFtbGlHbU16Mi0yZXZfSDFnTld6LU5KaFR2N2g3M3FxMVpKWDJaZw?oc=5"
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVdHR3RLMDJ3dzdaSkVLckEyT3c5M3NVNFJTanR1ZGdSbC1CTXZZMWZkYXhlVXI0aHBKWGM2dkhTVTloak9ULXE5U1RybVZUd0lTaXFkUGJmdVo3SE9NcHEyR1hYYkVFWHNha242RVFZY294ckZodHFmMHdsdzZpSE5SLWNZcWRINkFZaUhlM1JxMHp4dlgtalMwQjExanduTGwyc3lsX2dXM3pBelRFLWxuVzI?oc=5"
     },
     "longhorns": {
-      "headline": "Stats: How are the Texas Longhorns performing in the 2026 season? - KXAN Austin",
+      "headline": "Humann Branding to Debut on Moody Center Basketball Court Completing the Venue Integration Across All Texas Longhorns Athletics Facilities - University of…",
       "summary": "",
-      "source": "KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTc2UW5XcmxWSG12LTRSb1NaaHJQQmR6X0gtMGQ2ZnhDU25wNWc4WkgwenhmSDFMSmZDU1NLNVV6MUhtdDBKMEdGSjBXeHpvOGQwNFJURC1xN3UwdmFYWXJsdGhjMnRTdDFoRjZ1ZF9RREpiS0JicjhaQ3cyazVSMWNLbks?oc=5"
+      "source": "University of Texas Athletics",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPSFhCYVZDZlFOQzZxUHVtUzdGd2c2aG43RnNHVl9iUUVSS1dLdnhHbldtbDZkM2hReWNTT1VpN25yRi1vNm15NEVLUkNPTldWVHQ3YzEwd0IwNXNLZ2dDT0JxWTVjcENocDRsX2Y3VmxvTVBBc0tpbXdIdVNvcXJyMDloX3J2bHZxR1pCdXl1RGZGckl0RnJDX01zMGFjWTRMRHNGQUZlTC1FYTg4MGQ0RzRwQ1M2bE54MGVJTGVWWXMzbzR3OUVfTW8yWWJja0syUmRLWUFiYXAzX3Y4cHE3U3NpNmlaLUN3WFpWX0hTcjRLTjhFQlJpUVAxMi00SWVEOWdjT3lGQzhBRGQ5Ync2eWpodmpwekJNNDVTdUZYZy1Hd3EyR1RCbHUzX2FzTE53SnI5Z1BfRXNWdE8wY2c?oc=5"
     }
   }
 }
