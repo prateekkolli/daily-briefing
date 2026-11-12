@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-11T18:55:19",
+  "updated": "2026-11-12T19:14:23",
   "tech": [
     {
       "tag": "AI",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature…",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
       "source": "",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
     },
     {
       "tag": "AI",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.…",
+      "title": "The Jensen Huang scandal is hardly over",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
     },
     {
       "tag": "AI",
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn…",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of…",
       "source": "",
-      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "summary": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years"
+    },
+    {
+      "tag": "Economy",
+      "title": "Why is gasoline suddenly under $4 a gallon?",
+      "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
+    },
     {
       "tag": "Economy",
       "title": "Gas prices dip below $4 but inflation remains stubbornly high",
       "summary": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
       "source": "",
       "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
-    },
-    {
-      "tag": "Economy",
-      "title": "Why did California's billionaire tax fail to surf the blue wave?",
-      "summary": "Two economists debate what California's vote on Prop 40 means for the wealth tax movement.",
-      "source": "",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave"
-    },
-    {
-      "tag": "Economy",
-      "title": "INFLATION REPORT",
-      "summary": "Gasoline prices are falling, but the overall cost of living remains stubbornly high. The Labor Department reports on October inflation Tuesday morning.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034517/inflation-report"
     }
   ],
   "science": [
@@ -56,57 +56,57 @@
     },
     {
       "tag": "Science",
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's…",
+      "source": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+    },
+    {
+      "tag": "Science",
       "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
       "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone…",
       "source": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
-    },
-    {
-      "tag": "Science",
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known…",
-      "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-        "summary": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
+        "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+        "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery"
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight"
       },
       {
         "tag": "National",
-        "title": "What's behind Democratic Socialists' historic victories in the midterms?",
-        "summary": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence.",
+        "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
+        "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms"
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting"
       },
       {
         "tag": "National",
-        "title": "Following big Democratic wins, these swing voters are looking for results",
-        "summary": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
+        "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+        "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress"
+        "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Rampant Corruption. An Unpopular War. A Historic Election. It’s 1972 All Over Again. - Texas Monthly",
+        "title": "East Texas Republicans credit midterm win to a focus on policies - The Texas Tribune",
         "summary": "",
-        "source": "Texas Monthly",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWwxRjlGM2g0TWoyREtOT0F4QmswQU84cV9UVGx6aGpYUHMxUVRSdDhOWV9XYzFjS2tUMl9PQ3BQWWVqS0VuTkdvdnh0OGQwT3gxaEJWUkdNVnVzSEZTUTNYU3J2TDRDZkcyRG9NMHc5MUk5VmRSdGZIV3pidHF4Qg?oc=5"
+        "source": "The Texas Tribune",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVVJSnFxeWVzcldXSDk1X1dzMk5Zekg3d18tbXZRa2RPaHlxWHllMmxDaE90RVdfN1Z0MHJDM2hCMlduRHA1YTlQOG1USFZ2YWxWWURQa1JINmRBUDVNd0YzLXd0RXUxZlBldXlkS0JrcmNlbktTLV9EYnFVUGNIVUFJRGdINGZGbmtSYjRJNA?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "It’s not us, it’s you – Why Collin County voters broke up with Ken Paxton - www.kera.org",
+        "title": "Six Texas Democrats to watch in Congress in 2027 - Houston Chronicle",
         "summary": "",
-        "source": "www.kera.org",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQURacVNOYXczSDlEU0tyeDJKQUl2Xzh2ZEZXTFFmb2VBM01lM2txWTgzNFNfZ1BZQ0ZtdW1kS1JXbHNHWlAxTERSZWllZVBJc1BYc3NBazRYOXlpRFYzTlZBVUJwdXdxSEtidlJxMWFYMUtjTlBNWXYzNkZQclZzaDFjTlFNSERLeXkyaHhnYnFSY1A1Q3JpWU5uUnBVU05ZOWZj?oc=5"
+        "source": "Houston Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2xqNnhmMlJaNmpxc3diQm84RWxqRlk5V3ZFdmEydnNBcmtfX1ZCRldIMHNndV95SUt4YkpFYW1saHl5aUExVVNvRkJybURMWDVneXJSYW95VGl2WlgyenY3RHYyNWRzUTZPSHhYM1NNcUU2azBubnlFblJNcjNSdnYtYmNwTEI5TDZabGgxWVdJTGl4TFIyVktVcmM2VU1nUWp4QkdKbGpRbUozLWhVSGZNcw?oc=5"
       }
     ]
   },
@@ -128,17 +128,10 @@
     "items": [
       {
         "tag": "Tracking",
-        "title": "MENG REINTRODUCES BILL TO MAKE DIWALI A FEDERAL HOLIDAY - Congresswoman Grace Meng (.gov)",
+        "title": "Conference Recap: Big Tech, Democracy, and Human Rights 2026 - Center for the Study of Organized Hate (CSOH)",
         "summary": "",
-        "source": "Congresswoman Grace Meng (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazRqMERmS1BReGUyU1RDOGFsd080QUUyMjc3X0JObFFLUlNrNzdrMXBtZWhmclpUWUgxSnhibnhvVS1wMzZfRUVicjlfQWgyUWdHZ1BLWFlYUnFjRVp3UGxDT0NJaE5TWXlHbzVpdkxQMFJVU3U0U2RIU2NZSTRZbWhDN2tYbU5zYm5VcXpRT3RaZDZ0OFVzU3FLQWNMdHNtQVE?oc=5"
-      },
-      {
-        "tag": "Tracking",
-        "title": "Rep. Meng reintroduces legislation to make Diwali a federal holiday - QNS.com",
-        "summary": "",
-        "source": "QNS.com",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBianl6eV8yWmw1dzRIZVNNT2xONDJJeDhHSWZ1d05kX0R1aEhHU3I4amY4UUZ0dzhxaldqYTAwZVFQaXMtbzcxUXVYeTlTVHNFM3FaSWlvV0tuSk1QaENfNVh3?oc=5"
+        "source": "Center for the Study of Organized Hate (CSOH)",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENFV2TjJJd3MxWmk4cV91OXRpOWpJQkNMV3I0d21UVkdYaFRUSWYxQ2wybndMNWdjVnFSQ1poNUIwOEVrUUZXRWJnTWFLemZmdFNUd1ZUME9FMDE3QV8wWVFJZkNfZk91VnhBV0s1Rk9QS29xYVE?oc=5"
       },
       {
         "tag": "Tracking",
@@ -146,27 +139,34 @@
         "summary": "",
         "source": "INDIA New England News",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlLQzEzMVYwZXFCeWo4b3RYOXhHRUY5V085OWNaVkFGdUxGaEt4UG4wZTkwajRpSUhYS2VUNXgwNEZwX1BONjFQS0ZYU0FzWGVyLVdKOUdtaTY3eHljZ2FMRFFVVUhYOWZhMmtkTExEOEJzT2UwU1FwUVE3cXBxelRMb2wwVE9Dc0dSdjlmUUZ6VWh1bTJYVW0xeE8zQUNzYXdaUUd1VkI0cDFSRnpkOWt1WU5QVlNha2lCR2JWTUU?oc=5"
+      },
+      {
+        "tag": "Tracking",
+        "title": "From political outsider to US Congresswoman: Pia Dandiya's journey to make history - India Today",
+        "summary": "",
+        "source": "India Today",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTlRZX0stYlRuQlhFVkxhR0ZIUjFnZGdWdVRFZGFQLS1jZ0ZpRVNhcl9UUDlNOEEyVHMxUGFsVXRBN3N1MlgyMjlkM0Q2amc0TktvdU9Lb3FuNlRSc0FubWVjQzNFLVhMLWR2S250VVZXTWpYZC1TaGpmMlZJenRZYkRiemwxdldpMnNwN3VSX3Fucl9Jd3FDR3BSVHBhN2JLVVZHZ1BaUlRuemFoWVE0SW02OHpjYURxQ0tuYzVhSUJiQXRPRDJzbGtxekN3d1RUOHFmVVVFN1BieTZjQ2dQZFc1TEhEb1N3NTRnMTl1NWZJV242Qk83TTlOc0tSNGpBV1d5LVlCM0h0VFZs0gGSAkFVX3lxTE9fT2pqeWN5UlRRQ2lCY3BwY1Zybms4WVhid0JfT1NXbU9FamFqVXNDVFFmYWFMb3VTTVFtRG55NFdNbEJ5Q2VWM1gtSlZ0ZFJ6UnU3LXVOMTJRQ0FiaXozRFl0U3dLZU1BSmZLZEpUcXpYRTU3Wmo4S2tWTUdiNkttR2lQSy1TdnVGRmpsdFBqRG16RXFILVhLUEk1TnpReVhTRkg5bW5PekdjZkRpTG93bGttbkFYMWNYU3RmTDd0cHptU25xSGtTdDh6TzlKYTRHRXhBWDZjNVJ0bkYwdm16aUNtV2hibFE3VGtaUzJlSEFCWmxBTFdxQlBvRHR0MFdJdFlXSWM1WFk2Nl9LV0ZxV1E?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Flagg's workaholic offseason worthy of much more than a PB&J - NBA.com",
+      "headline": "Dallas Mavericks vs Minnesota Timberwolves Nov 12, 2026 Game Summary - NBA.com",
       "summary": "",
       "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSENtdjBVdTU1YUcyamxQNWo2N3RadXJlZWQ3U0tkWThacTlSSU9IOWVuaFdGdnFiUGZJb0hLU3YtWHhSYnBQaFE4U2UtZDktNllUdnZBTURzdktMTUViN195VHVhUWUwV3BSRUoyTTV5a3BSWGtkakFuMy1WSEh4UHlwTS1JaTVGMTZHTEhlUFo4Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcGxvNkdZODVhYzYtUjAyaWxoa0pRd2xpUi1LUk5mdzRSblZPS00taWlJUzNSeU5BaGxic05ua29zaE9Nd0J2WHpEdnhIc3QwS0VHbnhQQU45UQ?oc=5"
     },
     "cowboys": {
-      "headline": "ESPN Confirms Why Dallas Cowboys Didn't Trade George Pickens on Deadline Day - Sports Illustrated",
+      "headline": "Science Lab: Dear Cowboys, is the laundry done? - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
-      "source": "Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMm9TMlpDbU1yUDE0aDh3Q2MzRUd1MnJiLXladXFqYTFUdnhvdGJRTWQ4OVh3V2ZVZm82cnJhSkNUbDUtalA0UHFzQi0xY1BsWFJPcHZzUTA4N0FaQXF2aWdaVG8zTzNhNmx4ckZLeGQ3cmJTTkhCaW41S2JSdmllMWNPMDBHRi1Bd0oyaVoxbThIZTlab1JyQVd5bw?oc=5"
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1BDcmlWZkVEV0dqcm5CS1hRRkI4Z2tSWnhaWFJEV180SjJHWDhJTV8tQmFUWnZfVzJLOE03TlZTWEhFbi12WEFXMV9XeV9pdk1VQmFGenROUjAzclZxbjZoTEMwZy1JeVNFMDVQYU9fZUJPenZpOE1td1VPS2dqajd4cUVZUQ?oc=5"
     },
     "longhorns": {
-      "headline": "No. 8/8/6 Football’s Biles, Simmons named Walter Camp Player of the Year semifinalists - University of Texas Athletics",
+      "headline": "Our Defense vs Their Offense: Texas Longhorns - Yahoo Sports",
       "summary": "",
-      "source": "University of Texas Athletics",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVNuZmRiM0ZPT1Z6OUctXzFlSXJWQkpKVENMenJZT1drb1RSVllGdDRlbDZaVDgwSk1jcEk2WmR4dzM0SGU2d2FWQTZua2xfWTBDRTdEbEtHN2FDS1UwVC1rUG5qRExaZXNSYjNFa1pMMXgyTnR4TXJvU1V6S2NvOHo0eTRtcmlLa1NyNUl1NzZ2R1BVTFNBaUNCRC1OZmQtSWdyc21uRV9yVTBrYmNoMzRJMmdDWWtkZ3NMdzRZcnpoM1ZN?oc=5"
+      "source": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamRKZTZzLTBHYWlrV3JHMjcwRWN2aDRjMGJlcUYyM1NseHBjRl9XUHdCcEpueUd3d19NOVdyT0NSOEszVDNQYV9mVlJVZUFkS3hQejhuVEtyUjZ4QVFrc0pwcTgxZGJIV0JrbU1NSldqenowS3huSGc4bHFsMlBmLXV3MzJTVThFNTRz?oc=5"
     }
   }
 }
