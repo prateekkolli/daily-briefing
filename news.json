@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-12T19:14:23",
+  "updated": "2026-11-13T18:50:05",
   "tech": [
     {
       "tag": "AI",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
     },
     {
       "tag": "AI",
-      "title": "The Jensen Huang scandal is hardly over",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état…",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
     },
     {
       "tag": "AI",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of…",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "Does Europe regret its bet on U.S. defense?",
+      "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+      "source": "",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense"
+    },
     {
       "tag": "Economy",
       "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
@@ -37,76 +44,69 @@
       "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
       "source": "",
       "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
-    },
-    {
-      "tag": "Economy",
-      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-      "summary": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
     }
   ],
   "science": [
     {
       "tag": "Science",
-      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals,…",
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
     },
     {
       "tag": "Science",
-      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-      "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's…",
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
     },
     {
       "tag": "Science",
-      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-      "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone…",
+      "title": "Superheated magma could fuel towering lava fountains",
+      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-        "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+        "title": "The Trump administration's voter roll crusade could continue",
+        "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight"
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
       },
       {
         "tag": "National",
-        "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
-        "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+        "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+        "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting"
+        "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
       },
       {
         "tag": "National",
-        "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-        "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+        "title": "Hegseth awards medal to soldier who chastised him",
+        "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "East Texas Republicans credit midterm win to a focus on policies - The Texas Tribune",
+        "title": "Karl Rove: Texas midterms ‘would have been different’ if Cornyn received Senate nomination over Paxton - Houston Public Media",
         "summary": "",
-        "source": "The Texas Tribune",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVVJSnFxeWVzcldXSDk1X1dzMk5Zekg3d18tbXZRa2RPaHlxWHllMmxDaE90RVdfN1Z0MHJDM2hCMlduRHA1YTlQOG1USFZ2YWxWWURQa1JINmRBUDVNd0YzLXd0RXUxZlBldXlkS0JrcmNlbktTLV9EYnFVUGNIVUFJRGdINGZGbmtSYjRJNA?oc=5"
+        "source": "Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnZNUWhwbmxZSmFKc3R1aEZQR09ZUTM4R21rLTZQYU1yNHYta3lUNXdoQm1ySG9qajU2MVVmWENzaS1RNDRFaVJPRE9KM1pTb19aQWd2OFhZT0FucHhxQzFwdTJ4WmNpd0czUWdfcTMyLU1IQ05ieHN2aERIQTBwLXFFZ200SlppWW0wMmpULVowMEXSAZMBQVVfeXFMTTJ2TVFocG5sWUphSnN0dWhGUEdPWVEzOEdtay02UGFNcjR2LWt5VDV3aEJtckhvamo1NjFVZlhDc2ktUTQ0RWlST0RPSjNaU29fWkFndjhYWU9BbnB4cUMxcHUyeFpjaXdHM1FnX3EzMi1NSENOYnhzdmhESEEwcC1xRWdtNEpaaVltMDJqVC1aMDBF?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Six Texas Democrats to watch in Congress in 2027 - Houston Chronicle",
+        "title": "Texas’ populist history and ‘The Myth of Red Texas’ - Texas Standard",
         "summary": "",
-        "source": "Houston Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2xqNnhmMlJaNmpxc3diQm84RWxqRlk5V3ZFdmEydnNBcmtfX1ZCRldIMHNndV95SUt4YkpFYW1saHl5aUExVVNvRkJybURMWDVneXJSYW95VGl2WlgyenY3RHYyNWRzUTZPSHhYM1NNcUU2azBubnlFblJNcjNSdnYtYmNwTEI5TDZabGgxWVdJTGl4TFIyVktVcmM2VU1nUWp4QkdKbGpRbUozLWhVSGZNcw?oc=5"
+        "source": "Texas Standard",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbmFMeWRRaW50NUs2ZjBJaXN1alFmTUZOTlhwTDlpUGFjUk9zUXBWTEd5c2hXZUVrUlhRYmp5b050UmFhcksyaTBFaFBodEV5TzVscmlKRmR6czliR3dwSU1qOFQzNzk5NGlKWDRfcEt1dkM1RHRj?oc=5"
       }
     ]
   },
@@ -151,22 +151,22 @@
   },
   "sports": {
     "mavericks": {
-      "headline": "Dallas Mavericks vs Minnesota Timberwolves Nov 12, 2026 Game Summary - NBA.com",
+      "headline": "Timberwolves 133-94 Mavericks (Nov 12, 2026) Game Recap - ESPN",
       "summary": "",
-      "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcGxvNkdZODVhYzYtUjAyaWxoa0pRd2xpUi1LUk5mdzRSblZPS00taWlJUzNSeU5BaGxic05ua29zaE9Nd0J2WHpEdnhIc3QwS0VHbnhQQU45UQ?oc=5"
+      "source": "ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HTU0yVzNXZ2FuWnVSdzBGNmF4TENxSVhFaHZoMHZoazJPV252M1pNb3JHRm9kYlpjQkZhWGVmaUY3em1uMFNXS1lFcGxDNDg4MExQb0hnbjNXZ2s?oc=5"
     },
     "cowboys": {
-      "headline": "Science Lab: Dear Cowboys, is the laundry done? - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Dallas Cowboys' Most Disappointing Players at Halfway Point of 2026 Season - Sports Illustrated",
       "summary": "",
-      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1BDcmlWZkVEV0dqcm5CS1hRRkI4Z2tSWnhaWFJEV180SjJHWDhJTV8tQmFUWnZfVzJLOE03TlZTWEhFbi12WEFXMV9XeV9pdk1VQmFGenROUjAzclZxbjZoTEMwZy1JeVNFMDVQYU9fZUJPenZpOE1td1VPS2dqajd4cUVZUQ?oc=5"
+      "source": "Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX25uYTg1NE5ZWnEwbEhIWGV4LVhRWXRzUWJHdzBzNmFjekJXX2s3cGtKTG53djZoa3hmVkxMUUNuNFpSRjdKSEE4SmxsQVdkTjF2cHVTMWNfMlBlTks1Y1lGbWJCTDEwU3hkN2xRaVZJTGQzbU5tbEw1QkdObE1ILVo1VEtvX2FoZDBfNDBhbHRVUWZKZUxPOVVlNFVsdHA2VjRIeUR3Nm5iUWc?oc=5"
     },
     "longhorns": {
-      "headline": "Our Defense vs Their Offense: Texas Longhorns - Yahoo Sports",
+      "headline": "Softball signs three on National Signing Day - University of Texas Athletics",
       "summary": "",
-      "source": "Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamRKZTZzLTBHYWlrV3JHMjcwRWN2aDRjMGJlcUYyM1NseHBjRl9XUHdCcEpueUd3d19NOVdyT0NSOEszVDNQYV9mVlJVZUFkS3hQejhuVEtyUjZ4QVFrc0pwcTgxZGJIV0JrbU1NSldqenowS3huSGc4bHFsMlBmLXV3MzJTVThFNTRz?oc=5"
+      "source": "University of Texas Athletics",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOU9yS0l5Q0pKRnRNNjVPbTRMdnV1ajRFV2FFOTE5Tk84NjdDR0QxM2taVHBQcVJCdEpybXpmTkMwMlExUnY4VDJFMmVkVlNDaUdxaUlpUzY1eHVrTUVBczd4SXlBWXphVERKZFkzc1B3RkZIdG1QSHE2OURPMVNVS0xGaWtLalJmYnhyUVdBa08?oc=5"
     }
   }
 }
