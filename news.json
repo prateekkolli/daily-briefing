@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-13T18:50:05",
+  "updated": "2026-11-14T17:22:28",
   "tech": [
     {
       "tag": "AI",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US…",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known…",
       "source": "",
-      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
     },
     {
       "tag": "AI",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting…",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
     },
     {
       "tag": "AI",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair…",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
     }
   ],
   "economy": [
@@ -49,64 +49,64 @@
   "science": [
     {
       "tag": "Science",
-      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more…",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
     },
     {
       "tag": "Science",
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the…",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
     },
     {
       "tag": "Science",
-      "title": "Superheated magma could fuel towering lava fountains",
-      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than…",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "The Trump administration's voter roll crusade could continue",
-        "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+        "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+        "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary"
       },
       {
         "tag": "National",
-        "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-        "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+        "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+        "summary": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout"
       },
       {
         "tag": "National",
-        "title": "Hegseth awards medal to soldier who chastised him",
-        "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
+        "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+        "summary": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him"
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Karl Rove: Texas midterms ‘would have been different’ if Cornyn received Senate nomination over Paxton - Houston Public Media",
+        "title": "Washington Power Struggles, Texas Politics and the Battle for What’s Next - Houston Public Media",
         "summary": "",
         "source": "Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnZNUWhwbmxZSmFKc3R1aEZQR09ZUTM4R21rLTZQYU1yNHYta3lUNXdoQm1ySG9qajU2MVVmWENzaS1RNDRFaVJPRE9KM1pTb19aQWd2OFhZT0FucHhxQzFwdTJ4WmNpd0czUWdfcTMyLU1IQ05ieHN2aERIQTBwLXFFZ200SlppWW0wMmpULVowMEXSAZMBQVVfeXFMTTJ2TVFocG5sWUphSnN0dWhGUEdPWVEzOEdtay02UGFNcjR2LWt5VDV3aEJtckhvamo1NjFVZlhDc2ktUTQ0RWlST0RPSjNaU29fWkFndjhYWU9BbnB4cUMxcHUyeFpjaXdHM1FnX3EzMi1NSENOYnhzdmhESEEwcC1xRWdtNEpaaVltMDJqVC1aMDBF?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWczbVVSTGZFVzJ2VFk3SXhrd0dIOV9LaDlLTkd4TW52VlhyQVczdWlsUFU1d1FMcjlVYW1ZNG9wUW9uaEZjMzMzRFNadXhIc1E3a0ZMYlJ2NTdQeU52Z3hOdm1OOFpRZy1aNzh4dF8wYlBvb3R1UFJoT2lSNG9ValpHcnVabFU4aHNjbkxXREtIbXJMRzUteVlrR0tuX2tnYmQxcXdodUdOb0RxcjFXc0RBSUdzdXZaWWZfOU1SdFE4TkhJRjFTZFdmNTVkRmFFUjltTU5tTHpsbnJMcVV3TGpQcjc2Vjc3RzV30gHzAUFVX3lxTFBPYnFrWkVNcVNOWGk5cmk0SUNzdU1PLV9Fc2F3YUNybjVPRGFlcXRVT2VxbTN4X0FhVVVRdThsemlOcU5kN2N2ZFV3cjBNSVhSUkUwUnB5UE5WOEt5MldPcVk4VndNejUyR1pOdXFiaUpHeFVVNlR2NVpjSW5jcUl2ODFtdXRycy0tTFBpbVBMUzlISmVNT1JXZG1rVDVXLWlFN1dnYkotcE1hSnFodFBTV1NWUWRpNXoycmpPN1N0bHlBVWZiS3BJT1Nac0gxdGRCTUM3Q2VhdmhELTJHUnBYTXNOWnVyY29YcEtielptNGZudw?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Texas’ populist history and ‘The Myth of Red Texas’ - Texas Standard",
+        "title": "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives - Time Magazine",
         "summary": "",
-        "source": "Texas Standard",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbmFMeWRRaW50NUs2ZjBJaXN1alFmTUZOTlhwTDlpUGFjUk9zUXBWTEd5c2hXZUVrUlhRYmp5b050UmFhcksyaTBFaFBodEV5TzVscmlKRmR6czliR3dwSU1qOFQzNzk5NGlKWDRfcEt1dkM1RHRj?oc=5"
+        "source": "Time Magazine",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYThZS05mY3BlV0FoN25TUEtCYU5JLTFsbjJBYW5GVUJHT2pzTjJnaEdFSE5aSHBqSW5XTWlWVF83dmp2dFBqSHlUOGd1a0VsTFN4Y2JURnRBN0Ita09xUGFnSElIbC1KVHY0M2gtd1NtLXRXMmJsdjQ3TzVqZkgzazM0Z2pNUFVxVEN0eUwzQy0?oc=5"
       }
     ]
   },
@@ -135,38 +135,46 @@
       },
       {
         "tag": "Tracking",
+        "title": "Congressman-Elect Amish Shah Targets Tariffs, Raises Alarm Over Anti-Indian Hate - indica News",
+        "summary": "",
+        "source": "indica News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUk9ySU5HY05sSmNsVHlwenhndEthWEtUMUFhLXJacnRPcU5BMXc1MG16bmdwNXFNYURWeXFQcWlwN21hXzIyQUMycktpTzJQQ3JVUkd5UFllSnVfbV9kcDNaOEZydTN2Sm5iMFBTa21faWFiblJCQXgzZTBrQl9pckJfdkNjU3pZV1FmbzBQeGRpOUdCcjF4cjJsZkFGd0s3aTVKUmVR?oc=5"
+      },
+      {
+        "tag": "Tracking",
         "title": "India Accuses US Religious Freedom Commission of Bias, Cites Silence on Anti-Indian Hate Crimes - INDIA New England News",
         "summary": "",
         "source": "INDIA New England News",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlLQzEzMVYwZXFCeWo4b3RYOXhHRUY5V085OWNaVkFGdUxGaEt4UG4wZTkwajRpSUhYS2VUNXgwNEZwX1BONjFQS0ZYU0FzWGVyLVdKOUdtaTY3eHljZ2FMRFFVVUhYOWZhMmtkTExEOEJzT2UwU1FwUVE3cXBxelRMb2wwVE9Dc0dSdjlmUUZ6VWh1bTJYVW0xeE8zQUNzYXdaUUd1VkI0cDFSRnpkOWt1WU5QVlNha2lCR2JWTUU?oc=5"
-      },
-      {
-        "tag": "Tracking",
-        "title": "From political outsider to US Congresswoman: Pia Dandiya's journey to make history - India Today",
-        "summary": "",
-        "source": "India Today",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTlRZX0stYlRuQlhFVkxhR0ZIUjFnZGdWdVRFZGFQLS1jZ0ZpRVNhcl9UUDlNOEEyVHMxUGFsVXRBN3N1MlgyMjlkM0Q2amc0TktvdU9Lb3FuNlRSc0FubWVjQzNFLVhMLWR2S250VVZXTWpYZC1TaGpmMlZJenRZYkRiemwxdldpMnNwN3VSX3Fucl9Jd3FDR3BSVHBhN2JLVVZHZ1BaUlRuemFoWVE0SW02OHpjYURxQ0tuYzVhSUJiQXRPRDJzbGtxekN3d1RUOHFmVVVFN1BieTZjQ2dQZFc1TEhEb1N3NTRnMTl1NWZJV242Qk83TTlOc0tSNGpBV1d5LVlCM0h0VFZs0gGSAkFVX3lxTE9fT2pqeWN5UlRRQ2lCY3BwY1Zybms4WVhid0JfT1NXbU9FamFqVXNDVFFmYWFMb3VTTVFtRG55NFdNbEJ5Q2VWM1gtSlZ0ZFJ6UnU3LXVOMTJRQ0FiaXozRFl0U3dLZU1BSmZLZEpUcXpYRTU3Wmo4S2tWTUdiNkttR2lQSy1TdnVGRmpsdFBqRG16RXFILVhLUEk1TnpReVhTRkg5bW5PekdjZkRpTG93bGttbkFYMWNYU3RmTDd0cHptU25xSGtTdDh6TzlKYTRHRXhBWDZjNVJ0bkYwdm16aUNtV2hibFE3VGtaUzJlSEFCWmxBTFdxQlBvRHR0MFdJdFlXSWM1WFk2Nl9LV0ZxV1E?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Timberwolves 133-94 Mavericks (Nov 12, 2026) Game Recap - ESPN",
+      "headline": "Dallas Mavericks vs Cleveland Cavaliers Nov 14, 2026 Game Details - NBA.com",
       "summary": "",
-      "source": "ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HTU0yVzNXZ2FuWnVSdzBGNmF4TENxSVhFaHZoMHZoazJPV252M1pNb3JHRm9kYlpjQkZhWGVmaUY3em1uMFNXS1lFcGxDNDg4MExQb0hnbjNXZ2s?oc=5"
+      "source": "NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3l2bUlEV2ZhWTR1QW1zOWFrRDFuNFloZWNzcWZxcUNVZi00NjkxX290SzY1Ri1RdFR5bGoyTzd4U1pqQ0dpY3d0X1VMdUtXRDJRd2R5RWM3RlJVaWVXejR6SzBzckRMOFJTVjMyeE11S2lGOXYzdG5MMFlla0dKYXM5dDIyRVB0dksxTHBkTE1oTWpJMkQw?oc=5"
     },
     "cowboys": {
-      "headline": "Dallas Cowboys' Most Disappointing Players at Halfway Point of 2026 Season - Sports Illustrated",
+      "headline": "NFL Expert Sheds Light on Trade Calls for Dallas Cowboys Star George Pickens - Yahoo Sports",
       "summary": "",
-      "source": "Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX25uYTg1NE5ZWnEwbEhIWGV4LVhRWXRzUWJHdzBzNmFjekJXX2s3cGtKTG53djZoa3hmVkxMUUNuNFpSRjdKSEE4SmxsQVdkTjF2cHVTMWNfMlBlTks1Y1lGbWJCTDEwU3hkN2xRaVZJTGQzbU5tbEw1QkdObE1ILVo1VEtvX2FoZDBfNDBhbHRVUWZKZUxPOVVlNFVsdHA2VjRIeUR3Nm5iUWc?oc=5"
+      "source": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUtCdk5ueVJjWFhxR2trYmFTdlpXUXBmRDJDOVBhTFZ2d25mWnF3bmRrOFFRekJxSFZESFVVS1JUdDhVVmJpYWVJSWdHazBLTnlsWEpTMW03OVZqNlNmTGxIVDlqUjNJb3U2WmtHVTg0WjVDVmhmbHJjZXFneWdkWUlMSQ?oc=5"
     },
     "longhorns": {
-      "headline": "Softball signs three on National Signing Day - University of Texas Athletics",
-      "summary": "",
+      "headline": "No. 16 Volleyball preview: LSU - University of Texas Athletics",
+      "summary": "No. 16 Volleyball preview: LSU University of Texas Athletics",
       "source": "University of Texas Athletics",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOU9yS0l5Q0pKRnRNNjVPbTRMdnV1ajRFV2FFOTE5Tk84NjdDR0QxM2taVHBQcVJCdEpybXpmTkMwMlExUnY4VDJFMmVkVlNDaUdxaUlpUzY1eHVrTUVBczd4SXlBWXphVERKZFkzc1B3RkZIdG1QSHE2OURPMVNVS0xGaWtLalJmYnhyUVdBa08?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuWDB4d21WNkRtelprTkszY3ZmMVFSYXNCWkVRQVZhSGVUcEdrZ3VFdVFkOVQ2ZVB3QUNiZ0xzLWhNLUdaS0F3STdoLTdLNURhVDd2TmJQa3picW9VRnMzZ2tyenY5QVcyVU9BTGdYaUwyR2FaWDA4WEF3bw?oc=5"
     }
-  }
+  },
+  "breakingSports": [
+    "Sources: Vikings made initial Cousins trade call before MNF meltdown",
+    "Chiefs RB Walker (groin) to miss game vs. Bijan, Falcons, sources say",
+    "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
+    "NFL reassigns backup referees to work Sunday games within driving distance",
+    "Deion a 'proud guy' as 'resilient' Buffs take down No. 14 Houston",
+    "Knicks' Hart 'not in a good headspace' after scoreless night, benching"
+  ]
 }
