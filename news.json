@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-15T18:03:18",
+  "updated": "2026-11-16T21:18:35",
   "tech": [
     {
       "tag": "AI",
-      "title": "An overview of Jensen Huang’s messy days",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The…",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper…",
       "source": "",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
     },
     {
       "tag": "AI",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known…",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
       "source": "",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
     },
     {
       "tag": "AI",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black…",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he…",
       "source": "",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats"
     }
   ],
   "economy": [
@@ -49,64 +49,64 @@
   "science": [
     {
       "tag": "Science",
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a…",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
     },
     {
       "tag": "Science",
-      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-      "summary": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their…",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection,…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
     },
     {
       "tag": "Science",
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to…",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
-        "summary": "A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker.",
+        "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+        "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump"
+        "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
       },
       {
         "tag": "National",
-        "title": "Politics chat: Duffy calls for more funding, Democrats plans for accountability",
-        "summary": "Transportation Secretary Sean Duffy demands more money for the country's air travel control systems. Democrats plan for accountability, but not enough of them showed up for an impeachment vote.",
+        "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+        "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/15/nx-s1-6040041/politics-chat-duffy-calls-for-more-funding-democrats-plans-for-accountability"
+        "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
       },
       {
         "tag": "National",
-        "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-        "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
+        "title": "Nearly two million people are behind bars in the US. How did we get here?",
+        "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
+        "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Democrats win control of the Texas House from Republicans after remaining \"cautiously optimistic\" - CBS News",
+        "title": "With Democrats taking power, some big city mayors in Texas hope the blue wave trickles down in 2027 - Houston Public Media",
         "summary": "",
-        "source": "CBS News",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZjFVUUMzWVF3V2pPdUg1dGdMNDZyX09pZmVhUl9CZmQ0WGJFVDZ0RFVCaV9SVE03UUJZRi00U0Y5R05NcWxvX2lOTlhLS2ZJTHY2Z3JITVhIeTUzOVBqUi1ZQ3RWQ0ZWVHMzcEN1RzVHWFczc2JZMWhSeExpeDhBRzNQakZMMFpacVNjRUZ2YzhXd3pXM1c5QUhaS0JIT1JXb19iR29FNHdEYUY3WXRoekpRbFJWRWkxZDZtbDVQY0lRWU9NMUp3SVNuMlBkNGt6UnBXaXRZUXhyMk56NDNmT0JB?oc=5"
+        "source": "Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORzl1QjVDZk0xSUgtX0tIdF9keDdlQmVFTVpKVTFCV0padGlqTUEzallMU1RLTzNwZ1BnbkZPZHFKVG9CbjdrQ3NhbnIzSm4tRzNNaTBqa05HR1JTd2t5Vmduc3NTeERncllDWG9sMmlaSHQ2NTJyZlNrYVRMWTQxQ0NrQ3BYeHFpbGZ3Uzh5SmVUTl9xVDFfSnN3ck9EVDg1TVNEYnVzVjNQNTRQaFdpTzNfa1RwSVdGYXlsNnZkdlctN0NZekp6WjJYUUh0dkFvbFFleXRwc2tfa3JISFBsMC1uSmVRcXBidTdBb2tQc2l1dGxLbkxsTWIxQTM3RE1KZElWYVRDNVZnaUVzd3lhZEZYeWZ0N0NtRzRTcVpSOWFfU2o1Rk1FZVFLb2FSWXMyaFA0X1lTRWlZWWgwMHpTbTduVFN5UnFyVFJHZWlBRENEVTRNdUtHNXl30gHaAkFVX3lxTE5HOXVCNUNmTTFJSC1fS0h0X2R4N2VCZUVNWkpVMUJXSlp0aWpNQTNqWUxTVEtPM3BnUGduRk9kcUpUb0JuN2tDc2FucjNKbi1HM01pMGprTkdHUlN3a3lWZ25zc1N4RGdyWUNYb2wyaVpIdDY1MnJmU2thVExZNDFDQ2tDcFh4cWlsZndTOHlKZVROX3FUMV9Kc3dyT0RUODVNU0RidXNWM1A1NFBoV2lPM19rVHBJV0ZheWw2dmR2Vy03Q1l6SnpaMlhRSHR2QW9sUWV5dHBza19rckhIUGwwLW5KZVFxcGJ1N0Fva1BzaXV0bEtuTGxNYjFBMzdETUpkSVZhVEM1VmdpRXN3eWFkRlh5ZnQ3Q21HNFNxWlI5YV9TajVGTUVlUUtvYVJZczJoUDRfWVNFaVlZaDAwelNtN25UU3lScXJUUkdlaUFEQ0RVNE11S0c1eXc?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Inside Texas Politics - newswest9.com",
-        "summary": "Inside Texas Politics newswest9.com",
-        "source": "newswest9.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjdJNVRaNWVwNlRYZEhNdm5ESkVmY2l0LWs2S1VrWWxnWEJYRkJYZmE1MGJUTE84ZWMxZ2ZIUWxKelRtbkdheFRZTTk1RHpBWElZUjVBdUZLZy1fc3RQWmQzVmxoNlB0VkhQLVFHYmlGM3dvWHNJUXh0c1kwUi05cFphVWdEbnlMa0hkYVJUN3JZM19qWXllSGJHOVVKQUNIbVhnVXJ5WlVTX1hOT21NVQ?oc=5"
+        "title": "Second Reading Podcast: Early Signs as Democrats Prepare to Lead Divided Government in Texas - The Texas Politics Project",
+        "summary": "",
+        "source": "The Texas Politics Project",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1FPdklYTmhkY1ZGT0Jvd3ZWQXh3UHgyRG52V2VpUWJNMXFUVXVwbS1GSmxGVHZBbzVpaVVHSGhSS1dSNW5DTnlFX2k5MDh4c2diZFg1OVJsVE5Pc2VUbkNFeW84dmFULTJkUzhiMDE2UmpqQ2UwcVYxUnYyNnVYbGdCWDdEMzdnTDBvaDdnVE0zVC1Ub0VId0dPVkZWZkFPQW1feVBQMWlOclYtaFAxd0g3Q1JMeDhOQTlQSTJmY3ZOSlduM0VYNg?oc=5"
       }
     ]
   },
@@ -151,22 +151,24 @@
   },
   "sports": {
     "mavericks": {
-      "headline": "Dallas Mavericks vs Boston Celtics Nov 15, 2026 Game Summary - NBA.com",
+      "headline": "Celtics 131-94 Mavericks (Nov 15, 2026) Game Recap - ESPN",
       "summary": "",
-      "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52RVU5WXNITEc5cE1YRDBaSUxqWTJMQ1htektKZkRxM3A5dE43ZmRqdThBZEdZMXpRT09LOG55eFpQbmdJYVRHbVZNek1FaERRM3dFV0VuM090QQ?oc=5"
+      "source": "ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWSFVSd3NaUFVuUTdEWWpBb3NBVzdaRmVON2NWY1FmaklOb3dNZUZHRFBGSXFsRUFJWEtXNU40NTNVUVNfWGIxUlhyWm5xaTNUYlBnbVFyU3l3YlE?oc=5"
     },
     "cowboys": {
-      "headline": "Dallas Cowboys Sign TE After Jake Ferguson Injury Sidelines Him vs 49ers - Sports Illustrated",
+      "headline": "Stephen Jones on 105.3 The Fan | 11-16-26 - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
-      "source": "Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3VBS0VlblYzV1NEdXUwTGsybktpQWVFZVd6VE9tWGVYWnVtVElOQ0JjRTJoeXZQSUZEWE5SVEFrcExONHlSdGhzMFRkQjB5aVRVQ0xxckZ5eVBPd2p4bmpCTWNQbF8tRGRiZXlXanp0bzEwTTNhdTN5c1NEemdpcGV4Q2JSTHcydUZKLXMxejROM1dpeV84?oc=5"
-    },
-    "longhorns": {
-      "headline": "College Football National Championship Odds: Texas Skyrockets in Title Conversation; Tennessee Rises, LSU Done - Sports Illustrated",
-      "summary": "",
-      "source": "Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSHM4MUgzcnprWXU2bW9OcTZtTTRfSVBrSUYtMHJtM0FHX2NTSTRDZGVhRWNlYWxrbzJidFJ3MTJlU0NqY1RxaVFqYTdVdmtiWW1oU0F3a2Q3QnlRQnZmN1pMRUw4Q29lMjFRdzdhXzluWHZfQ1I5R29hRnd6Qmt5ZFU2NmxqLVh2QWlJZXlVMGVXTDFhVWF5cDd2YVFWWTRFRmZaV0dXY0JiWVFkOW1meGlSMFpIOHFJbWhjbnhUMkdOM3JSN09EbVFCTzN3QUU?oc=5"
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG5ESmwtSm1Fdlh3X0xwdlRVVmI0bGRiNTE4MWs5MUl5cGJlZlR4LWlEUjZIY09TcXBDS0lNaWxBSnpUZ0RuZVBHaTRjS2hQTlZONGZtdzY0Sy1iWkJHbGFJbTBCbjk5NlVoSjhTYW9sWkdaaUdhV25nMWxfVzlQNg?oc=5"
     }
-  }
+  },
+  "breakingSports": [
+    "Connelly sizes up college football's best races down the homestretch",
+    "Power Rankings: Top 5 holds steady",
+    "Sources: Patriots fear QB Maye has broken ankle, could miss rest of season",
+    "Cignetti: Narrative surrounding Indiana 'feeds into our motivation and our chip'",
+    "Arch will participate in Texas senior day, says he's not thinking about future",
+    "Sparty up to No. 2 in AP men's poll after win over 5th-ranked Duke"
+  ]
 }
