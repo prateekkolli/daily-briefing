@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-16T21:18:35",
+  "updated": "2026-11-17T20:07:19",
   "tech": [
     {
       "tag": "AI",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper…",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
     },
     {
       "tag": "AI",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
     },
     {
       "tag": "AI",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he…",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business…",
       "source": "",
-      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats"
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "Can Google win the AI race without killing its cash cow?",
+      "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
+      "source": "",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow"
+    },
+    {
+      "tag": "Economy",
+      "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+      "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs"
+    },
     {
       "tag": "Economy",
       "title": "Does Europe regret its bet on U.S. defense?",
       "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
       "source": "",
       "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense"
-    },
-    {
-      "tag": "Economy",
-      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
-      "summary": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years"
-    },
-    {
-      "tag": "Economy",
-      "title": "Why is gasoline suddenly under $4 a gallon?",
-      "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
     }
   ],
   "science": [
@@ -56,57 +56,57 @@
     },
     {
       "tag": "Science",
-      "title": "The secret to building Moon bases may be hiding in emergency blankets",
-      "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection,…",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
     },
     {
       "tag": "Science",
-      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
-      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-        "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+        "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+        "summary": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+        "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
       },
       {
         "tag": "National",
-        "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-        "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+        "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+        "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
+        "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
       },
       {
         "tag": "National",
-        "title": "Nearly two million people are behind bars in the US. How did we get here?",
-        "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
+        "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+        "summary": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here"
+        "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "With Democrats taking power, some big city mayors in Texas hope the blue wave trickles down in 2027 - Houston Public Media",
+        "title": "Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage - New York Post",
         "summary": "",
-        "source": "Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORzl1QjVDZk0xSUgtX0tIdF9keDdlQmVFTVpKVTFCV0padGlqTUEzallMU1RLTzNwZ1BnbkZPZHFKVG9CbjdrQ3NhbnIzSm4tRzNNaTBqa05HR1JTd2t5Vmduc3NTeERncllDWG9sMmlaSHQ2NTJyZlNrYVRMWTQxQ0NrQ3BYeHFpbGZ3Uzh5SmVUTl9xVDFfSnN3ck9EVDg1TVNEYnVzVjNQNTRQaFdpTzNfa1RwSVdGYXlsNnZkdlctN0NZekp6WjJYUUh0dkFvbFFleXRwc2tfa3JISFBsMC1uSmVRcXBidTdBb2tQc2l1dGxLbkxsTWIxQTM3RE1KZElWYVRDNVZnaUVzd3lhZEZYeWZ0N0NtRzRTcVpSOWFfU2o1Rk1FZVFLb2FSWXMyaFA0X1lTRWlZWWgwMHpTbTduVFN5UnFyVFJHZWlBRENEVTRNdUtHNXl30gHaAkFVX3lxTE5HOXVCNUNmTTFJSC1fS0h0X2R4N2VCZUVNWkpVMUJXSlp0aWpNQTNqWUxTVEtPM3BnUGduRk9kcUpUb0JuN2tDc2FucjNKbi1HM01pMGprTkdHUlN3a3lWZ25zc1N4RGdyWUNYb2wyaVpIdDY1MnJmU2thVExZNDFDQ2tDcFh4cWlsZndTOHlKZVROX3FUMV9Kc3dyT0RUODVNU0RidXNWM1A1NFBoV2lPM19rVHBJV0ZheWw2dmR2Vy03Q1l6SnpaMlhRSHR2QW9sUWV5dHBza19rckhIUGwwLW5KZVFxcGJ1N0Fva1BzaXV0bEtuTGxNYjFBMzdETUpkSVZhVEM1VmdpRXN3eWFkRlh5ZnQ3Q21HNFNxWlI5YV9TajVGTUVlUUtvYVJZczJoUDRfWVNFaVlZaDAwelNtN25UU3lScXJUUkdlaUFEQ0RVNE11S0c1eXc?oc=5"
+        "source": "New York Post",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0h5bVg3SW9OQ1dVVmk1TmFGNS1YcmxlakNGc1BWS3I3QU5YOXFjWTBOQUNBdENXNGpCaEQ4Z21tTXpzamMxVWFYYThDU2xidWhlR25GUlJUQXNiekNKdE14Yi1xSjJpeXlTVW01TE43a1lWMVF4bHN3TUNXOFpKT3d2QXVpaG1UTHdlU05kRzFycUVxQjdtdXQwVEZPMm9GNWhtTm1CX0F3SnlXdDIwU3FmVnludTdGcC1VbkZKMk5EZmx4c3hQVDlEWjBxdG5xQTVrQ2hheXF2c3ZlS2RkNUJ1OA?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Second Reading Podcast: Early Signs as Democrats Prepare to Lead Divided Government in Texas - The Texas Politics Project",
+        "title": "Texas Democrats have started laying out their agenda. Where might Republicans draw the line? - Houston Public Media",
         "summary": "",
-        "source": "The Texas Politics Project",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1FPdklYTmhkY1ZGT0Jvd3ZWQXh3UHgyRG52V2VpUWJNMXFUVXVwbS1GSmxGVHZBbzVpaVVHSGhSS1dSNW5DTnlFX2k5MDh4c2diZFg1OVJsVE5Pc2VUbkNFeW84dmFULTJkUzhiMDE2UmpqQ2UwcVYxUnYyNnVYbGdCWDdEMzdnTDBvaDdnVE0zVC1Ub0VId0dPVkZWZkFPQW1feVBQMWlOclYtaFAxd0g3Q1JMeDhOQTlQSTJmY3ZOSlduM0VYNg?oc=5"
+        "source": "Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOekE3SmdldFF3LW83MjV2YWtRa0ktUmNZSEZJa0ZYUGlhckZKemhEdFBPdUNfQ3dUMzU1U1RybkZ2aGNuTkpjU0xad1B5NHZQNEItWUdCVzdRQXZqejlBamtITDJObnlQY05OakJkZVgxNlUwalRoSlVkUnh0U0ZXQ3lkN2JNNWotZ1A0dnc0OHd0dEh0cnJ2ZWNQNXZHUFppTm5JYW54YVd6czcyczFTdXlja3E1MjhlVFJYX1VUNlZ1MUt5OVkxajlZZjBJc1JYNXZZdGxaRGFaRHY4UEstZlZ3WEFiTW1OUUlGazhDRFJBbkYyX3ZiYWtlc9IBgwJBVV95cUxQY1dDeGhMeVEtYWx6TmR1RERfSWt5b3A5UTNlRnZ2SG9qWGpUbW5SZFgtZG9jUkhEajNkX2xJaVp2aHdEb3JveGpEdEUxVHZ6NWVUWlFycTUtcm1wWW9QZzRYY3E0bUVFbDgzcVFBSlAyWDdoRm9NSmRwWHhWOE91bW5RaEc3eXMwMFQyU09MSW5ublhERDlsQmpoR1ZldVhtVW9YVndpbkpITnhIQXFMSE9nMk01TXZ1c0IxUE12NDR1Y3BodzlfejNjcXY5NTBtemZGTnNSaThXUnVfNGktNHdpLVhtZWh4SGJqTHZ2SEdDVFZpdHFYWi1sT3RoTm40NDFV?oc=5"
       }
     ]
   },
@@ -128,47 +128,45 @@
     "items": [
       {
         "tag": "Tracking",
-        "title": "MENG REINTRODUCES BILL TO MAKE DIWALI A FEDERAL HOLIDAY - Congresswoman Grace Meng (.gov)",
-        "summary": "",
-        "source": "Congresswoman Grace Meng (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazRqMERmS1BReGUyU1RDOGFsd080QUUyMjc3X0JObFFLUlNrNzdrMXBtZWhmclpUWUgxSnhibnhvVS1wMzZfRUVicjlfQWgyUWdHZ1BLWFlYUnFjRVp3UGxDT0NJaE5TWXlHbzVpdkxQMFJVU3U0U2RIU2NZSTRZbWhDN2tYbU5zYm5VcXpRT3RaZDZ0OFVzU3FLQWNMdHNtQVE?oc=5"
-      },
-      {
-        "tag": "Tracking",
-        "title": "Big Tech, Democracy & Human Rights 2026: Conference Recap | CSOH - Center for the Study of Organized Hate (CSOH)",
+        "title": "Conference Recap: Big Tech, Democracy, and Human Rights 2026 - Center for the Study of Organized Hate (CSOH)",
         "summary": "",
         "source": "Center for the Study of Organized Hate (CSOH)",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENFV2TjJJd3MxWmk4cV91OXRpOWpJQkNMV3I0d21UVkdYaFRUSWYxQ2wybndMNWdjVnFSQ1poNUIwOEVrUUZXRWJnTWFLemZmdFNUd1ZUME9FMDE3QV8wWVFJZkNfZk91VnhBV0s1Rk9QS29xYVE?oc=5"
       },
       {
         "tag": "Tracking",
-        "title": "India Accuses US Religious Freedom Commission of Bias, Cites Silence on Anti-Indian Hate Crimes - INDIA New England News",
+        "title": "Congressman-Elect Amish Shah Calls for Tariff Rollbacks, Action Against Anti-Indian Hate - INDIA New England News",
         "summary": "",
         "source": "INDIA New England News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlLQzEzMVYwZXFCeWo4b3RYOXhHRUY5V085OWNaVkFGdUxGaEt4UG4wZTkwajRpSUhYS2VUNXgwNEZwX1BONjFQS0ZYU0FzWGVyLVdKOUdtaTY3eHljZ2FMRFFVVUhYOWZhMmtkTExEOEJzT2UwU1FwUVE3cXBxelRMb2wwVE9Dc0dSdjlmUUZ6VWh1bTJYVW0xeE8zQUNzYXdaUUd1VkI0cDFSRnpkOWt1WU5QVlNha2lCR2JWTUU?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUllald1bmM0eXFkYW9NSkU5UWJyR0lnbHVxS2g4QjlHTTNwc3dSLXlsZHFrUzFRbzZDR3ZvWkJIYWg0WlJkQVR6dlkwU24wUEFHRnVDeE9aUUkydnpDLWJhRnhJNmJUX3JaUmF6a1ROcFM0ZUpNdjdpelkxaWREcC1fbzFTUmdybHI1bC1YSm1KUV8xbkNnOTFMcVFJTDQ4STlUd2d1bENPUVhYR3hrMC0yNlJUQWs?oc=5"
+      },
+      {
+        "tag": "Tracking",
+        "title": "Arizona's first Indian-American Congressman Amish Shah sets priorities: Tariffs, anti-indian hate - The Economic Times",
+        "summary": "",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjM1eldaNzZOUWJsMVlTb21ISF9rbktrcEh5a1psQ3Y1ZTAxRjRkOE9vR1J2QzBCRklqZXJmdDhJSHZGREwybTNNcXA1R3NGQmJzM1FfeHRZUHVCZC16SjhlRkpnV2xHSmQ5OW5GWjg5VlpJZEhjc3JURXNObTV1Z1RZWEgwWllQVm1kOFVwdzBEN1VKX3lZbE1YX2xuUG9PU1ZFay1ZNHZCZHVDYVNxTGdzMVdOWk9vTjB0M3NjNEFiYVhnOFBuLW16RjNxRV8yV1BCa0hFODZkb0ozTklIUjRMcEx2ajhnTm9BM29peDM0RGhYdmxxMkVB0gHzAUFVX3lxTE1KLVZ3ZDhHUndjOVRrTlYybmhKa0E4eXF5LUo1djJqaWEzMFJWa203cTlZZ3VjTHp1YWFZY2JNMXN0YjdyWUg3T1pEdG1QY2NXcG4wSUE1YTRjUy1VZlZMSTFwaVJrbUZTWDhYYWVhZmtSd1hVNXJkMzdCcURBekxSTmhKTXpWejYyVGoyNHBMaXVyT2VFUUVfTjV5SGVMdDV1c3FnNzJqRUxvcEFaU0JkLWV0dmFPNzhNUl9SVUVFbTRianJPYnQ5VGNuWDVsUk55djdSWHNvdDlXaTJrS2ozc25mUlQ4ak8tOFFib1JEMGFIWQ?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Celtics 131-94 Mavericks (Nov 15, 2026) Game Recap - ESPN",
+      "headline": "Game Preview: Warriors at Dallas Mavericks - 11/18/26 - NBA.com",
       "summary": "",
-      "source": "ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWSFVSd3NaUFVuUTdEWWpBb3NBVzdaRmVON2NWY1FmaklOb3dNZUZHRFBGSXFsRUFJWEtXNU40NTNVUVNfWGIxUlhyWm5xaTNUYlBnbVFyU3l3YlE?oc=5"
+      "source": "NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ0FCd0pfVWY1TmVYN240d005bkdUQWJ2U2tlclNTZHEzNXQxaEEtZ0g3dDdVeElXbEhrY0V2RURiTFg1NTRRUVlheklUd1pYWEk5RXVtTmlxV0ZpQWNfVHZyWEp5T2plSEE?oc=5"
     },
     "cowboys": {
-      "headline": "Stephen Jones on 105.3 The Fan | 11-16-26 - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Jerry Jones: Cowboys 'talking about' adjustment to Christian Parker's role - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
       "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG5ESmwtSm1Fdlh3X0xwdlRVVmI0bGRiNTE4MWs5MUl5cGJlZlR4LWlEUjZIY09TcXBDS0lNaWxBSnpUZ0RuZVBHaTRjS2hQTlZONGZtdzY0Sy1iWkJHbGFJbTBCbjk5NlVoSjhTYW9sWkdaaUdhV25nMWxfVzlQNg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxhaVc2ZnJ0Z3ZYTnpwZGVxSHJCOHY0OE1kenpHeDVWMExrWEJaLWM5d05sczdhd3VOdmtULUx2bmJ4ZkVKOWF4QnZmTjRJT0Y5QXJJWVBEVnFCMHhRSGdGOU05NjNUYnAxYVk2bEhyeHQ4SEVDbzlyOHloRHRSTGNFMGVvek5nTXNfWFVqTlBpMDMxODNlckNheGdMOXhCNkdkZWppcWJJZw?oc=5"
+    },
+    "longhorns": {
+      "headline": "No. 8/8/6 Football’s Spetic named Lou Groza Award semifinalist - University of Texas Athletics",
+      "summary": "",
+      "source": "University of Texas Athletics",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1dEM05DV2xnaFl6ckJRQUs0WnhSTmE1bG9nVDFLTE9yT2JMMURJemxKVnMwQmR4X2xzSGd4QWxZTTRrMUFSd1Z5eldVX1U2RkxNaGNzNm9sbTNtbGg1YkdSd3RaOHZ0b2FrU0lhd1dzMjFxTHJBSWVvUzR5c0FRVlpnR3lCa0xFdm9fVFJJNnM3YTFTaVZ0VXhrZkpidmw4ZW1JUm53?oc=5"
     }
-  },
-  "breakingSports": [
-    "Connelly sizes up college football's best races down the homestretch",
-    "Power Rankings: Top 5 holds steady",
-    "Sources: Patriots fear QB Maye has broken ankle, could miss rest of season",
-    "Cignetti: Narrative surrounding Indiana 'feeds into our motivation and our chip'",
-    "Arch will participate in Texas senior day, says he's not thinking about future",
-    "Sparty up to No. 2 in AP men's poll after win over 5th-ranked Duke"
-  ]
+  }
 }
