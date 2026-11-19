@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-18T19:39:32",
+  "updated": "2026-11-19T19:39:49",
   "tech": [
     {
       "tag": "AI",
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling…",
+      "title": "Gemini on Mac can now use your computer",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations,…",
       "source": "",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
     },
     {
       "tag": "AI",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen…",
+      "title": "Anthropic starts trading on Wall Street",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
     },
     {
       "tag": "AI",
-      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has…",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation…",
       "source": "",
-      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
     }
   ],
   "economy": [
@@ -49,64 +49,64 @@
   "science": [
     {
       "tag": "Science",
-      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
-      "summary": "Deep-sea researchers have captured stunning new footage of an extraordinarily rare fish with a transparent head and rotating eyes nearly 2,000 feet beneath the ocean's surface. Known as the barreleye fish, this bizarre creature uses its upward-pointing eyes to spot prey before rotating them forward…",
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
     },
     {
       "tag": "Science",
-      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
-      "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches…",
+      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+      "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
     },
     {
       "tag": "Science",
-      "title": "New discovery reveals what may be holding back room-temperature superconductors",
-      "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood,…",
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-        "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+        "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+        "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
+        "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
       },
       {
         "tag": "National",
-        "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-        "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+        "title": "The midterms were the largest win for either party in 50 years",
+        "summary": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+        "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority"
       },
       {
         "tag": "National",
-        "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
-        "summary": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller.",
+        "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+        "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration"
+        "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Texas Democrats have a chance to expand voting access. They still need Republicans’ support. - Houston Public Media",
+        "title": "Elon Musk: ‘I think things will be fine in Texas’ under democratic leadership - Houston Public Media",
         "summary": "",
         "source": "Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQalkwMF9xVUNsb1ZmY0NEUXlpdkFKeFRCZ1IyUzVlY1RrSlRhc0JnZDlGZmowRGNaS1NfTjJkSGdhSktSYUdTRUJYYnRQdnh6MVNqaVphVW16VC1xYWVKaFF5VnhmVE12SVN1UmI3ZjNkbEk4eV9uMHZxdHdLN2k5V05GZVdOd2x4TnVZZDluWlBXOXc1eWlyRngxM1FKNlFiZjlkRTI2SlVqM0ZpU1Y5LVBtM0lVV05yV2ZCRUZ6UE40SThBZHh5VHB0MXpKek1JaXluQ2NlMkpEWEZpOU9SdFZLcXJ4N1RLcWplQXN3SkVOcm4tZVZScDlsNl9XbWZvM2fSAYICQVVfeXFMUGpZMDBfcVVDbG9WZmNDRFF5aXZBSnhUQmdSMlM1ZWNUa0pUYXNCZ2Q5RmZqMERjWktTX04yZEhnYUpLUmFHU0VCWGJ0UHZ4ejFTamlaYVVtelQtcWFlSmhReVZ4ZlRNdklTdVJiN2YzZGxJOHlfbjB2cXR3SzdpOVdORmVXTndseE51WWQ5blpQVzl3NXlpckZ4MTNRSjZRYmY5ZEUyNkpVajNGaVNWOS1QbTNJVVdOcldmQkVGelBONEk4QWR4eVRwdDF6SnpNSWl5bkNjZTJKRFhGaTlPUnRWS3FyeDdUS3FqZUFzd0pFTnJuLWVWUnA5bDZfV21mbzNn?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkJ4QWlLeFJhclZYd2lralJIcEYwdV9CU3poMUdEWjV4VHNjU3I1aXVRQVRfeTlkY1lfM2ZzU3BGNElEOGxLUzNfdW1NQzc1UDhKNk95YnF3ckpqejhhQy1VeDl3aW5lOENuY2FqS1BBZG1aZ1BLdmhPaWxab3lOaWdHMlIzSVBMMkVfdnBDanBZa1dIYTA3RTk0N0dtUzdSNkU0dC1CcTVQN2VqaTRHYXZNamlQcS03TTh6TlJWMnJsRXNXR1R3ckhQUkx4ek84QktHY2pOVmdIMFhvSkxIbmNsaGluQdIB7gFBVV95cUxNRFJFWkU3U1RoQ3c2U3FhSlBNWkxRTTJoM3BDX04tM180YWMydGlaZ2VWMkdmLTN4SDJKSUg5UXY4c2cyYkdBM180eDg0RUx0a0hMNzJ2Q0hCOVVvMkJKSWJpZGJqb0k5SVhYUmFyblZsS2hnTGRaUTd4SHlPTlJyLVE3R0V2XzBNYW5MU0RBdGJaeW11TG1nbFlTVXZmNGo5T01ZcWtseFNLdG5tTEtFR3ZnZGQzdzltS2t2eUdOeHJSSk9Pam9Sb2M3SjdqTHlBTUQzSElpZGRsX1FiTkNTMVpDTDNZUVRVQXlnSVdB?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Democrats have an opportunity to change Texas. Don’t blow it. - UT San Antonio Today",
+        "title": "Opinion | At the border, Texans don’t hide why they turned on Trump - The Washington Post",
         "summary": "",
-        "source": "UT San Antonio Today",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkVHLVQ0TDJnNE80dWpIbVNQaGJWVDFGSElaWlZzQThKVXd6RU9UV0NBZGJMcUkyQU91OWJZamwybUpFbVNfQng1bEw5dDI1U3pzWTlTWm1tUC1XaEg1a0hYWV9qcUhnNTNpQ2NuVmhrckFTOXJ3MlgyeWVFRUpqOFNqTDdFX2VCbWkxeWln?oc=5"
+        "source": "The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZlMxazAwajlFX2FlYklIMzZLTVdmdDNvTi1JS0YzTXFZd3M5YmhXSFQzdnNVemxMYTNwd2JFWFRILTlsMXRwSkFLaThJVWt6aW55WDMyS2xnYXRRdFpRSUdPVHU2cmdlb3JnVWxETGJPTTRsMVltRlN4Zk81YldqLUFILVAwd1M4Q0M5NkhpUmYyRVZzcEdMbDNtbXE1Zw?oc=5"
       }
     ]
   },
@@ -128,13 +128,6 @@
     "items": [
       {
         "tag": "Tracking",
-        "title": "Big Tech, Democracy & Human Rights 2026: Conference Recap | CSOH - Center for the Study of Organized Hate (CSOH)",
-        "summary": "",
-        "source": "Center for the Study of Organized Hate (CSOH)",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENFV2TjJJd3MxWmk4cV91OXRpOWpJQkNMV3I0d21UVkdYaFRUSWYxQ2wybndMNWdjVnFSQ1poNUIwOEVrUUZXRWJnTWFLemZmdFNUd1ZUME9FMDE3QV8wWVFJZkNfZk91VnhBV0s1Rk9QS29xYVE?oc=5"
-      },
-      {
-        "tag": "Tracking",
         "title": "‘Responsibility To Banish That Hatred’: Zohran Mamdani Condemns Anti-Indian Racism At Diwali Event - Open Magazine",
         "summary": "",
         "source": "Open Magazine",
@@ -142,25 +135,38 @@
       },
       {
         "tag": "Tracking",
-        "title": "Congressman-Elect Amish Shah Calls for Tariff Rollbacks, Action Against Anti-Indian Hate - INDIA New England News",
+        "title": "'Responsibility to banish hatred': Zohran Mamdani condemns anti-Indian racism at New York Diwali event - The Times of India",
         "summary": "",
-        "source": "INDIA New England News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUllald1bmM0eXFkYW9NSkU5UWJyR0lnbHVxS2g4QjlHTTNwc3dSLXlsZHFrUzFRbzZDR3ZvWkJIYWg0WlJkQVR6dlkwU24wUEFHRnVDeE9aUUkydnpDLWJhRnhJNmJUX3JaUmF6a1ROcFM0ZUpNdjdpelkxaWREcC1fbzFTUmdybHI1bC1YSm1KUV8xbkNnOTFMcVFJTDQ4STlUd2d1bENPUVhYR3hrMC0yNlJUQWs?oc=5"
+        "source": "The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMTlVdVJMeC0zdjZqNWFvRzN1Y1h6MTZ0Q2FHZXkwRXhiTlVXTWlHNHZ5TjJZUlZGTGRKNmlWTW02WGhWLWxWajFQeG1fdTV4RURyaUM3WjB1NnA2dmJEWm5KYmFRdDlaODJ4SWhaRW03V1RZUEZZYVk5SjVWaE9PQ3h3TC1hMXgxanRyZGRXaGV5RXBmVTFwdXJkUC1BdURTZC1OZ0xVckxKREZZYXk0SzlIZHMydzRPcWNMOXJ4c3duQkdCVGlEMmZpdEJpcXpmMVN2UWUxMkVkcWRzRWxacWl4Z2ZFWGxRTTZzRVNzTVAzMDV1RllTX1ltVWZLSGJmd2VIZUpMajVfejkz0gGSAkFVX3lxTE1UQ1pEaHBUY0lpS1g0NUE4ZHM2ZlBEbkswTlYxRFEtRzJLQUR2LTBvU0dlMkNaT2d4NEIxNks5dnpROW9jQWpGQ1AwUmZfbEtwV0xkdzJ1NWZhT1NQSFF1YnhUdDRma0ZpWEZ0Sk1MVW80NWxwckxkNUxLWThuN3c3ZkxkUFZWN0J3bTRQVGZKV0JBYzZ3MWk2Yy1FVEtlbk53bjRiejUwVHhrRzV4dEo3YnhtMXBFUTlleVhFNHhDTFJMbUFTY1pmZEFzQk5ZXzhMNGRLZVVMSGEzOFRRek9GblhwQjEteGFCd2xNaGxYcjEyMnV0bllwekI0V2txZ1V6bmpBSUJxVVBaTndydDVxOGc?oc=5"
+      },
+      {
+        "tag": "Tracking",
+        "title": "Mamdani Condemns Anti-Indian Racism at New York Diwali Event - Deccan Chronicle",
+        "summary": "",
+        "source": "Deccan Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3NwZUpjRERJcHl2QUhGVUtRdkdMMnhkYXhSb2Zra1o2U2t0TC0zY1BlNkhTMG14WXVqUFFmNDZURWp6cWYzQUdsNklOQ0xJNGdjNFk3T3VHaTB3NWYtZHJlUDhiVm85bnNCajMtc0U5SGNwemJfMHVzNk9vVGFQeFREZmRDQmpnQ3dqczBISFdFZWI0T2NUdFdUaGhWcjJvNmg4V0xKVkNTQ1Y1MGdtVUdBemFoY0hpRUZ30gG7AUFVX3lxTE5zc3BlSmNERElweXZBSEZVS1F2R0wyeGRheFJvZmtrWjZTa3RMLTNjUGU2SFMwbXhZdWpQUWY0NlRFanpxZjNBR2w2SU5DTEk0Z2M0WTdPdUdpMHc1Zi1kcmVQOGJWbzluc0JqMy1zRTlIY3B6Yl8wdXM2T29UYVB4VERmZENCamdDd2pzMEhIV0VlYjRPY1R0V1RoaFZyMm82aDhXTEpWQ1NDVjUwZ21VR0F6YWhjSGlFRnc?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Warriors-Mavericks preview: Can the home court help snap three-game losing streak? - NBA.com",
+      "headline": "Highlights: Golden State Warriors vs. Dallas Mavericks | 11/18/26 - NBA.com",
       "summary": "",
       "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhETTRXMmxfYVhVRThPX29YYVNOT0FaX0NrbmdJcXRESE9TXzIxbHdiQTJZSHNMeDVNZHhXcDUxYUNvelFVRU1VNEN4YzNRSTJ3c3JSOHNKQXVKYk9lTlM1akdiUmdMWmVWRlduTUZGelNvWHFpT0dLU2dsR3Atc2Q4Yl9BaVZiem9xUTU1eXZoWTEwenY5ckJSWjc5cEMtRWpaenMyblItUWFESXF6Zzlna2pkRU9N?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0ViN2FpNjg1UXhrbThSRC1IU0oyU2RDVGQwbkc0T292bURfVzVxdVJHMFNsemdCajg5Vk0tVVA4cUtwdUdQZUQzMUVpTW9vX09YalI3NUswNnhxaUhfZE5qNDlZRkVCWGkwN0tWV0kxdDZVMGgxZ0F3aURJcnc2X2xzaW51anFLM0ZoN0o0QWNQdUdJYVc0M0hpNU9QZw?oc=5"
+    },
+    "cowboys": {
+      "headline": "Mailbag: Is Aubrey becoming a concern? - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "summary": "Mailbag: Is Aubrey becoming a concern? Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTTREUEVjc2pPRjhxbXRfWHJuT2ZONUNPOXhkZ2ZSZFdlY1poLVhRSGVxekJlXzRQRTVxLXpCdEJfVHJQTWdTbGdIbGdfeGFvLTVrZGl5SncyemEzbWRpa1dBb2x1R2tlbmtpVXotMThrTGY5Ym1ONDZzaw?oc=5"
     },
     "longhorns": {
-      "headline": "No. 15 Volleyball trio earn All-SEC honors - University of Texas Athletics",
+      "headline": "No. 8/8/5 Football’s Simmons named Nagurski Trophy finalist - University of Texas Athletics",
       "summary": "",
       "source": "University of Texas Athletics",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWm5hbEdaSkZOVnBJMl9PZ1NHNVd4Q3ctLXppYmw4UXlmRThiTXNmeEUtSGJWclJLOGFWWG5PQndNTGhrdzVfYmY2cXdEX09HelFCeHI0QkR5RDNHTk1rbTNvVE5ReElsTUFxSTRSSm9RZ3ZTcnBJdDRXb1YyaDk1bWw5OHhyTlR3TzBBSg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFdLYXpXV0tIZXZYbnI0TEp2aGVfbGtkdkpmRjVZTHNxVml3ZlQ3NTR6aF9uaXdRR1dpdzNnTXNUSHUyN2cxYmozeWl2VVlTckwxUHg2UGZhd2U2Z0hoOUFWcjFNTGRycnRBZS1CSk5DbWViQ0FkdF92bmdic3dHVnFNX3lUZXcybmZDMzdtWGhNak1wdGNRV1lXOUJOejNIQnc?oc=5"
     }
   }
 }
