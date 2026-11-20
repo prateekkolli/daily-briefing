@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-19T19:39:49",
+  "updated": "2026-11-20T19:18:26",
   "tech": [
     {
       "tag": "AI",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations,…",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our…",
       "source": "",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
     },
     {
       "tag": "AI",
-      "title": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its…",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
     },
     {
       "tag": "AI",
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation…",
+      "title": "The week everything fell apart",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "Just how vulnerable are we to cyberattacks?",
+      "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
+      "source": "",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks"
+    },
     {
       "tag": "Economy",
       "title": "Can Google win the AI race without killing its cash cow?",
@@ -37,76 +44,69 @@
       "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
       "source": "",
       "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs"
-    },
-    {
-      "tag": "Economy",
-      "title": "Does Europe regret its bet on U.S. defense?",
-      "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
-      "source": "",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense"
     }
   ],
   "science": [
     {
       "tag": "Science",
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially…",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
     },
     {
       "tag": "Science",
-      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-      "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so…",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
     },
     {
       "tag": "Science",
-      "title": "Is free will an illusion? New brain research reveals a surprising twist",
-      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still…",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-        "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
+        "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+        "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
       },
       {
         "tag": "National",
-        "title": "The midterms were the largest win for either party in 50 years",
-        "summary": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
+        "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+        "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority"
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
       },
       {
         "tag": "National",
-        "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-        "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+        "title": "Trump touts meeting with Xi and Putin but offers little results",
+        "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Elon Musk: ‘I think things will be fine in Texas’ under democratic leadership - Houston Public Media",
+        "title": "Political Divisions, Texas Power Struggles and the Future of Data Centers - Houston Public Media",
         "summary": "",
         "source": "Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkJ4QWlLeFJhclZYd2lralJIcEYwdV9CU3poMUdEWjV4VHNjU3I1aXVRQVRfeTlkY1lfM2ZzU3BGNElEOGxLUzNfdW1NQzc1UDhKNk95YnF3ckpqejhhQy1VeDl3aW5lOENuY2FqS1BBZG1aZ1BLdmhPaWxab3lOaWdHMlIzSVBMMkVfdnBDanBZa1dIYTA3RTk0N0dtUzdSNkU0dC1CcTVQN2VqaTRHYXZNamlQcS03TTh6TlJWMnJsRXNXR1R3ckhQUkx4ek84QktHY2pOVmdIMFhvSkxIbmNsaGluQdIB7gFBVV95cUxNRFJFWkU3U1RoQ3c2U3FhSlBNWkxRTTJoM3BDX04tM180YWMydGlaZ2VWMkdmLTN4SDJKSUg5UXY4c2cyYkdBM180eDg0RUx0a0hMNzJ2Q0hCOVVvMkJKSWJpZGJqb0k5SVhYUmFyblZsS2hnTGRaUTd4SHlPTlJyLVE3R0V2XzBNYW5MU0RBdGJaeW11TG1nbFlTVXZmNGo5T01ZcWtseFNLdG5tTEtFR3ZnZGQzdzltS2t2eUdOeHJSSk9Pam9Sb2M3SjdqTHlBTUQzSElpZGRsX1FiTkNTMVpDTDNZUVRVQXlnSVdB?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZUJNNlZJVWUwNUhBYzJJMFU5ZU1CV09YNVI5V2JyOUJGNi14bVRrVV9SN0ZjaEJERTlwQThZMlgtcG03N1hDOGE4aHNOLTBqbXREcldkSDFVRGlSV1VIaUFzTDlhVDVzUDVvdWVfazNLLWI4OEc2TURqS0l2YnZneVY5UWZLVnV5cHJLdEN5SEFiVnJhRXhNeVVwY0VycmV4QXVQcTNWbTQtTmNkSC1RUHBBbEhQMnJQV3RUS1B4b0ZYbUNrNjRLa21wWHdrMkZDVnlHTzdWNmJtT1J6MGhldUYzVnp2MnJTOHU4WG9KUlF1eW5S0gH0AUFVX3lxTE9lQk02VklVZTA1SEFjMkkwVTllTUJXT1g1UjlXYnI5QkY2LXhtVGtVX1I3RmNoQkRFOXBBOFkyWC1wbTc3WEM4YThoc04tMGptdERyV2RIMVVEaVJXVUhpQXNMOWFUNXNQNW91ZV9rM0stYjg4RzZNRGpLSXZidmd5VjlRZktWdXlwckt0Q3lIQWJWcmFFeE15VXBjRXJyZXhBdVBxM1ZtNC1OY2RILVFQcEFsSFAyclBXdFRLUHhvRlhtQ2s2NEtrbXBYd2syRkNWeUdPN1Y2Ym1PUnowaGV1RjNWenYyclM4dThYb0pSUXV5blI?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Opinion | At the border, Texans don’t hide why they turned on Trump - The Washington Post",
-        "summary": "",
-        "source": "The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZlMxazAwajlFX2FlYklIMzZLTVdmdDNvTi1JS0YzTXFZd3M5YmhXSFQzdnNVemxMYTNwd2JFWFRILTlsMXRwSkFLaThJVWt6aW55WDMyS2xnYXRRdFpRSUdPVHU2cmdlb3JnVWxETGJPTTRsMVltRlN4Zk81YldqLUFILVAwd1M4Q0M5NkhpUmYyRVZzcEdMbDNtbXE1Zw?oc=5"
+        "title": "No, Transplants Didn’t Turn Texas Blue - Texas Monthly",
+        "summary": "No, Transplants Didn’t Turn Texas Blue Texas Monthly",
+        "source": "Texas Monthly",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk1YLTJ6NkkyZ19idkZiUVpiQUNodVdSWEJ2T05pcUxLZEpvQWNZb0hzVHV1OGxHWmpqSWUyTW9sWWtELUJfeFBsd2hiT2ZqV3pEaUhXSmZ3aURmNVRpVnNGRFVqQXZackQ3SlA0ZVlFam1pNzJDcE0wU1IwVXB2U3Z3R0tEQQ?oc=5"
       }
     ]
   },
@@ -142,31 +142,31 @@
       },
       {
         "tag": "Tracking",
-        "title": "Mamdani Condemns Anti-Indian Racism at New York Diwali Event - Deccan Chronicle",
+        "title": "Bo French renews anti-Indian attacks after defeat - The American Bazaar",
         "summary": "",
-        "source": "Deccan Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3NwZUpjRERJcHl2QUhGVUtRdkdMMnhkYXhSb2Zra1o2U2t0TC0zY1BlNkhTMG14WXVqUFFmNDZURWp6cWYzQUdsNklOQ0xJNGdjNFk3T3VHaTB3NWYtZHJlUDhiVm85bnNCajMtc0U5SGNwemJfMHVzNk9vVGFQeFREZmRDQmpnQ3dqczBISFdFZWI0T2NUdFdUaGhWcjJvNmg4V0xKVkNTQ1Y1MGdtVUdBemFoY0hpRUZ30gG7AUFVX3lxTE5zc3BlSmNERElweXZBSEZVS1F2R0wyeGRheFJvZmtrWjZTa3RMLTNjUGU2SFMwbXhZdWpQUWY0NlRFanpxZjNBR2w2SU5DTEk0Z2M0WTdPdUdpMHc1Zi1kcmVQOGJWbzluc0JqMy1zRTlIY3B6Yl8wdXM2T29UYVB4VERmZENCamdDd2pzMEhIV0VlYjRPY1R0V1RoaFZyMm82aDhXTEpWQ1NDVjUwZ21VR0F6YWhjSGlFRnc?oc=5"
+        "source": "The American Bazaar",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZk5RaHZCVlZMT21qMXZ4d0Nua2lVN1psVGFrRmE5M21fVFAwV0Rib1I3eDhycm05MmJubWtsSDVjTjBMQmowei1PRWR3R2VFQ1RWcXhHWmhlWlVWNnBtdnFCYzFsWi10ZG1ISDhHM2JfNDdKMlNzdmNMa2dlV2N6eDRPM1AzY1FsMjN5aUJiQi13TjhwOUZyTHNCNFdSbllL?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Highlights: Golden State Warriors vs. Dallas Mavericks | 11/18/26 - NBA.com",
+      "headline": "Dallas Mavericks name Ryan Tanke Chief Operating Officer amid C-suite reshuffle - NBC 5 Dallas-Fort Worth",
       "summary": "",
-      "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0ViN2FpNjg1UXhrbThSRC1IU0oyU2RDVGQwbkc0T292bURfVzVxdVJHMFNsemdCajg5Vk0tVVA4cUtwdUdQZUQzMUVpTW9vX09YalI3NUswNnhxaUhfZE5qNDlZRkVCWGkwN0tWV0kxdDZVMGgxZ0F3aURJcnc2X2xzaW51anFLM0ZoN0o0QWNQdUdJYVc0M0hpNU9QZw?oc=5"
+      "source": "NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamhyeHFHTWhSNWJhTkFmRXNDRmxNZUd2eHR2NkVHX0k0aEVxVWxpRklZV25OLXJwVWZobTZJNTB3SEc5UTF1SEpUWnlneFlJT05GRFllanluWHdCbE1ESi1ZdzFPVTQyLVJ1bmoxQzhlQWdjVDFsSkVndGlXdWN0bVROOXJoQ203UEl4MHhZWkpUOWJYa3JsY3dUYUVrekRYRUdWcmZpRUpBb1EyREMzYTA3N0FpUTNpeUpwR9IBxAFBVV95cUxQZF81b0VOcU4xdjBvbU1DYkkxUHVoN20yVXhQTXZjbWFzUkxSVVd3OUU2R0MyM0dXRlRjX1RaZEdEMGplS2IyNmhHdi1QUmpzcEZZWW5KSVlhVDk5QUxzYzRzdGJzZ2g3VEtNOVZEOXRnOXRHemlqeEVYNEhnSTFMdWFPMnIzWm5rTTVrVnUtUk1ZTXBPZFhTUk5yY2oyTFpFQWVxWkZ6akp0eFdBaGVpdG5mZXl3MWtvQ3hYN1htV2pqbTR6?oc=5"
     },
     "cowboys": {
-      "headline": "Mailbag: Is Aubrey becoming a concern? - Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "summary": "Mailbag: Is Aubrey becoming a concern? Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTTREUEVjc2pPRjhxbXRfWHJuT2ZONUNPOXhkZ2ZSZFdlY1poLVhRSGVxekJlXzRQRTVxLXpCdEJfVHJQTWdTbGdIbGdfeGFvLTVrZGl5SncyemEzbWRpa1dBb2x1R2tlbmtpVXotMThrTGY5Ym1ONDZzaw?oc=5"
+      "headline": "Man dies days after fight at Dallas Cowboys game - FOX 4 News Dallas-Fort Worth",
+      "summary": "",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFo3QU53TVMwOGVpRFJWR1RpelVIbEFFNDJPNmI0RXotZWg1cV9FaFczOWN4UE5QTXozMVEySDJseTFFZjBDcXZCeHFmeV95Y1FzYjlPZTRTMFV2cER0RkpxdkM5b28tMTNDc3haa1htVWZQZnVWUzVLcnR2cW0wSA?oc=5"
     },
     "longhorns": {
-      "headline": "No. 8/8/5 Football’s Simmons named Nagurski Trophy finalist - University of Texas Athletics",
+      "headline": "No. 8/8/5 Football’s Biles tabbed Butkus Award finalist - University of Texas Athletics",
       "summary": "",
       "source": "University of Texas Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFdLYXpXV0tIZXZYbnI0TEp2aGVfbGtkdkpmRjVZTHNxVml3ZlQ3NTR6aF9uaXdRR1dpdzNnTXNUSHUyN2cxYmozeWl2VVlTckwxUHg2UGZhd2U2Z0hoOUFWcjFNTGRycnRBZS1CSk5DbWViQ0FkdF92bmdic3dHVnFNX3lUZXcybmZDMzdtWGhNak1wdGNRV1lXOUJOejNIQnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlVaNVozWHJ4SVVaTXRjNDFHbGpBNGpXekt5dEhLMXVVVnlTQmZNTEFoWmROM2wtR1VmWGJLSTkxYTVkb3ROV1c0R0tzNzA0cGFPYnQybnpXWXhWZmJIMl9jbWVldndWWTU3UlpYSUZpZjdOam9mZjlvaGpyNFl4VlVRUTVSU0N4Sk9mR0J1YkxqU0V4UXEyS1pWbEw?oc=5"
     }
   }
 }
