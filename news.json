@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-20T19:18:26",
+  "updated": "2026-11-21T18:20:13",
   "tech": [
+    {
+      "tag": "AI",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this…",
+      "source": "",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "tag": "AI",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of…",
+      "source": "",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
     {
       "tag": "AI",
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
       "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our…",
       "source": "",
       "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
-    },
-    {
-      "tag": "AI",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic…",
-      "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-    },
-    {
-      "tag": "AI",
-      "title": "The week everything fell apart",
-      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of…",
-      "source": "",
-      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
     }
   ],
   "economy": [
@@ -49,64 +49,64 @@
   "science": [
     {
       "tag": "Science",
-      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-      "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity…",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "summary": "",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
     },
     {
       "tag": "Science",
-      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-      "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where…",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
     },
     {
       "tag": "Science",
-      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-      "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond…",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-        "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+        "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
+        "summary": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
         "source": "",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats"
       },
       {
         "tag": "National",
-        "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-        "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+        "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
+        "summary": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker"
       },
       {
         "tag": "National",
-        "title": "Trump touts meeting with Xi and Putin but offers little results",
-        "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
+        "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
+        "summary": "President Trump returned from his trip to Asia, saying it was one of the most successful presidential visits to that continent -- or anywhere else -- in American history.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Political Divisions, Texas Power Struggles and the Future of Data Centers - Houston Public Media",
+        "title": "EAST TEXAS POLITICS: Former Gov. Rick Perry on Democratic wins: ‘I’m not going to tell you I saw that coming’ - KLTV.com",
         "summary": "",
-        "source": "Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZUJNNlZJVWUwNUhBYzJJMFU5ZU1CV09YNVI5V2JyOUJGNi14bVRrVV9SN0ZjaEJERTlwQThZMlgtcG03N1hDOGE4aHNOLTBqbXREcldkSDFVRGlSV1VIaUFzTDlhVDVzUDVvdWVfazNLLWI4OEc2TURqS0l2YnZneVY5UWZLVnV5cHJLdEN5SEFiVnJhRXhNeVVwY0VycmV4QXVQcTNWbTQtTmNkSC1RUHBBbEhQMnJQV3RUS1B4b0ZYbUNrNjRLa21wWHdrMkZDVnlHTzdWNmJtT1J6MGhldUYzVnp2MnJTOHU4WG9KUlF1eW5S0gH0AUFVX3lxTE9lQk02VklVZTA1SEFjMkkwVTllTUJXT1g1UjlXYnI5QkY2LXhtVGtVX1I3RmNoQkRFOXBBOFkyWC1wbTc3WEM4YThoc04tMGptdERyV2RIMVVEaVJXVUhpQXNMOWFUNXNQNW91ZV9rM0stYjg4RzZNRGpLSXZidmd5VjlRZktWdXlwckt0Q3lIQWJWcmFFeE15VXBjRXJyZXhBdVBxM1ZtNC1OY2RILVFQcEFsSFAyclBXdFRLUHhvRlhtQ2s2NEtrbXBYd2syRkNWeUdPN1Y2Ym1PUnowaGV1RjNWenYyclM4dThYb0pSUXV5blI?oc=5"
+        "source": "KLTV.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnFUU3NKSlR5OXFvd202VjZsc3ppUVpBZjhRdjJlMFJSQ19OTFR6cl9TajVpeVJYT19RR1JjcDFweXZ4ZHM3Y0NKV1B6NEZWUEZNRkk3Z0lVeDl0VUdJWUZCbTBkTlU4R1RGb0x6cXN4M1BKQ2ljRjFxV2ZQR0ktU0hDMlFKUFBvZkpKWl9WYV9FRno4Qm9ZR0JFN3dOY1VFZzZsUlJrWDdGbV9rV1JxWlZrZExCV2UwY0dGOWl3dW01dmU3NVgwcmZn0gHeAUFVX3lxTFBmWUJ6OW9LSFM1QWstTkstYjlYUktPcFZsUGVubHAwelZZLTJMYVpOVTBFTG9zeVA2OHVScDJJZG5VMlAzbDdLelIzcEpQYUxzVG5FMGI3VDdiYWFPNGtPcmdZN1hscTNpcnZNVkQ4ZGlUWFVESks2NV9jUmItclp2YjljaVZWZHFQa2NhSTktQUJwYUlzdGppYklGU1pvSmJ2c251MkhHQVJtQ0puUXBCa3lJWWVYdU5taFZCdFNHYmNET2txdW1rQ2dWZ25MdndkQlppMzdYcXNuSU9Zdw?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "No, Transplants Didn’t Turn Texas Blue - Texas Monthly",
-        "summary": "No, Transplants Didn’t Turn Texas Blue Texas Monthly",
-        "source": "Texas Monthly",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk1YLTJ6NkkyZ19idkZiUVpiQUNodVdSWEJ2T05pcUxLZEpvQWNZb0hzVHV1OGxHWmpqSWUyTW9sWWtELUJfeFBsd2hiT2ZqV3pEaUhXSmZ3aURmNVRpVnNGRFVqQXZackQ3SlA0ZVlFam1pNzJDcE0wU1IwVXB2U3Z3R0tEQQ?oc=5"
+        "title": "Texas Railroad Commissioner-elect joins Inside Texas Politics to discuss priorities, how he plans to double its budget - WFAA",
+        "summary": "",
+        "source": "WFAA",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOTJPWjk2ZGJmUVdhNTZ6c2o4VkZvZXRVakJwSnY4bmFvb3dHMUFzY1pRS0lhalFNdXI3dy1ib3p4bndobFRFdlVzdXItZmNGSjNqM0M0eTIzMXFhWmJmeGJiSEdQajUtVG1iLXVkb2Nra0NIenEtMTRMSkljN1NrQkJ0VHZybzl3ZVdxQm1jeTRLYjgwbG5PVEJZaWdpd1RhVWF0MHpqWHBVOGZRbTIzMXZHR0p2cVZkemlHUTg1ZFhVVXc1UWpDWGtuNkhRWXg4SU9vR2dBWGhIREVVZkZ0a21zRWVYeEJtdE1lVlBQZHA4Z3BDYWZkajh2Nk5jSUpRNENndXFmVS15Z0pJMWtMRjRWenpTYm5JUEViR2pNd1F5VUVfX1k2Ni14d1Zvd2dKM2E0MGsyOXFXM0djYWpWWnNpOGs?oc=5"
       }
     ]
   },
@@ -128,45 +128,45 @@
     "items": [
       {
         "tag": "Tracking",
+        "title": "Diwali on Capitol Hill: US lawmakers condemn anti-Indian hate - The American Bazaar",
+        "summary": "",
+        "source": "The American Bazaar",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVUxMWtfWUwxQWJwMHhEYmVORWpYdkx1OE5vS29yTWx1aUl1QU45X05CbE5zN2hTWlN2Y1hKQnZOMUNtYjYtMUlhYzFjSkZFRzF3c2dRYWFsYUZ3VnoxMlBsdzc0MmdlQWF5eFFDS1IwTmxQYnpURTJaM254Zm9BZFdLWnd2bkY1Xzh3clhnenc3LXNvTHJOT3JHeXlYcVBJVjBBTnItemNtdFFQNHBQdjZB?oc=5"
+      },
+      {
+        "tag": "Tracking",
+        "title": "India Accuses US Religious Freedom Commission of Bias, Cites Silence on Anti-Indian Hate Crimes - INDIA New England News",
+        "summary": "",
+        "source": "INDIA New England News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlLQzEzMVYwZXFCeWo4b3RYOXhHRUY5V085OWNaVkFGdUxGaEt4UG4wZTkwajRpSUhYS2VUNXgwNEZwX1BONjFQS0ZYU0FzWGVyLVdKOUdtaTY3eHljZ2FMRFFVVUhYOWZhMmtkTExEOEJzT2UwU1FwUVE3cXBxelRMb2wwVE9Dc0dSdjlmUUZ6VWh1bTJYVW0xeE8zQUNzYXdaUUd1VkI0cDFSRnpkOWt1WU5QVlNha2lCR2JWTUU?oc=5"
+      },
+      {
+        "tag": "Tracking",
         "title": "‘Responsibility To Banish That Hatred’: Zohran Mamdani Condemns Anti-Indian Racism At Diwali Event - Open Magazine",
         "summary": "",
         "source": "Open Magazine",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONENPbnlhV1VVUmRWUTJsck5fdW1FR1dXazdCX1VjLTJTVWdmQWptMFBBNS1NUG1lWEdWTjZCSDBhdmVYU2Z3bE5yb1A5Y0tlNTZES0NVcVcyMC1fNXl2eVBmeXpQdFJDdXNKN3JzdkphbC1QalhXbGt5eFQ5dTJJelNtdTJtVENtWFNQRGVhZElacE1vYlhQV05lelRUUnRTNE55S3lHMVZUWVczNmNJZVpaUHViT1JmLURzbFFYMHZlSlFhUVVzWg?oc=5"
-      },
-      {
-        "tag": "Tracking",
-        "title": "'Responsibility to banish hatred': Zohran Mamdani condemns anti-Indian racism at New York Diwali event - The Times of India",
-        "summary": "",
-        "source": "The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMTlVdVJMeC0zdjZqNWFvRzN1Y1h6MTZ0Q2FHZXkwRXhiTlVXTWlHNHZ5TjJZUlZGTGRKNmlWTW02WGhWLWxWajFQeG1fdTV4RURyaUM3WjB1NnA2dmJEWm5KYmFRdDlaODJ4SWhaRW03V1RZUEZZYVk5SjVWaE9PQ3h3TC1hMXgxanRyZGRXaGV5RXBmVTFwdXJkUC1BdURTZC1OZ0xVckxKREZZYXk0SzlIZHMydzRPcWNMOXJ4c3duQkdCVGlEMmZpdEJpcXpmMVN2UWUxMkVkcWRzRWxacWl4Z2ZFWGxRTTZzRVNzTVAzMDV1RllTX1ltVWZLSGJmd2VIZUpMajVfejkz0gGSAkFVX3lxTE1UQ1pEaHBUY0lpS1g0NUE4ZHM2ZlBEbkswTlYxRFEtRzJLQUR2LTBvU0dlMkNaT2d4NEIxNks5dnpROW9jQWpGQ1AwUmZfbEtwV0xkdzJ1NWZhT1NQSFF1YnhUdDRma0ZpWEZ0Sk1MVW80NWxwckxkNUxLWThuN3c3ZkxkUFZWN0J3bTRQVGZKV0JBYzZ3MWk2Yy1FVEtlbk53bjRiejUwVHhrRzV4dEo3YnhtMXBFUTlleVhFNHhDTFJMbUFTY1pmZEFzQk5ZXzhMNGRLZVVMSGEzOFRRek9GblhwQjEteGFCd2xNaGxYcjEyMnV0bllwekI0V2txZ1V6bmpBSUJxVVBaTndydDVxOGc?oc=5"
-      },
-      {
-        "tag": "Tracking",
-        "title": "Bo French renews anti-Indian attacks after defeat - The American Bazaar",
-        "summary": "",
-        "source": "The American Bazaar",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZk5RaHZCVlZMT21qMXZ4d0Nua2lVN1psVGFrRmE5M21fVFAwV0Rib1I3eDhycm05MmJubWtsSDVjTjBMQmowei1PRWR3R2VFQ1RWcXhHWmhlWlVWNnBtdnFCYzFsWi10ZG1ISDhHM2JfNDdKMlNzdmNMa2dlV2N6eDRPM1AzY1FsMjN5aUJiQi13TjhwOUZyTHNCNFdSbllL?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Dallas Mavericks name Ryan Tanke Chief Operating Officer amid C-suite reshuffle - NBC 5 Dallas-Fort Worth",
+      "headline": "LA Clippers vs Dallas Mavericks Nov 21, 2026 Game Summary - NBA.com",
       "summary": "",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamhyeHFHTWhSNWJhTkFmRXNDRmxNZUd2eHR2NkVHX0k0aEVxVWxpRklZV25OLXJwVWZobTZJNTB3SEc5UTF1SEpUWnlneFlJT05GRFllanluWHdCbE1ESi1ZdzFPVTQyLVJ1bmoxQzhlQWdjVDFsSkVndGlXdWN0bVROOXJoQ203UEl4MHhZWkpUOWJYa3JsY3dUYUVrekRYRUdWcmZpRUpBb1EyREMzYTA3N0FpUTNpeUpwR9IBxAFBVV95cUxQZF81b0VOcU4xdjBvbU1DYkkxUHVoN20yVXhQTXZjbWFzUkxSVVd3OUU2R0MyM0dXRlRjX1RaZEdEMGplS2IyNmhHdi1QUmpzcEZZWW5KSVlhVDk5QUxzYzRzdGJzZ2g3VEtNOVZEOXRnOXRHemlqeEVYNEhnSTFMdWFPMnIzWm5rTTVrVnUtUk1ZTXBPZFhTUk5yY2oyTFpFQWVxWkZ6akp0eFdBaGVpdG5mZXl3MWtvQ3hYN1htV2pqbTR6?oc=5"
+      "source": "NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbURWZ29wbHRkWU5GOU8yaDc1RGtYN0oyWkJWQ1UyTkZoZmlHOXk5Ql9HNC11dGJWVnhIUlotTnYxV1BTWjNWeVh1VG5UamxNTlNPNHNkRnZpQQ?oc=5"
     },
     "cowboys": {
-      "headline": "Man dies days after fight at Dallas Cowboys game - FOX 4 News Dallas-Fort Worth",
+      "headline": "Mike Pettine on taking over as Cowboys' defensive play-caller, dynamic with Christian Parker - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFo3QU53TVMwOGVpRFJWR1RpelVIbEFFNDJPNmI0RXotZWg1cV9FaFczOWN4UE5QTXozMVEySDJseTFFZjBDcXZCeHFmeV95Y1FzYjlPZTRTMFV2cER0RkpxdkM5b28tMTNDc3haa1htVWZQZnVWUzVLcnR2cW0wSA?oc=5"
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnpiTFBnODZybEVQa19lZm4zaW1CVHJaQWpTeGlneFdtZU91MXYyVFpOVGYtM3pia2s3OUF0OWM1bWVOUFROY3N2YW1OVmgyTzVmVmExTjFmczk5NkRTS09sVDdUdC1xOHJWX2NSUTBsdzl1Z0lEMjY4bDBWTGE5T2pOZUtiMFNhREMzTUdnRmVMZG1LWGoweDBqSDZ3WE14eVR4RUFtckJZdzJJLUxxVndvYWRlZVFLaDNiZjgyVE40NXM?oc=5"
     },
     "longhorns": {
-      "headline": "No. 8/8/5 Football’s Biles tabbed Butkus Award finalist - University of Texas Athletics",
+      "headline": "How to watch Texas vs Arkansas football today: TV channel, predictions for Saturday game - Austin American-Statesman",
       "summary": "",
-      "source": "University of Texas Athletics",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlVaNVozWHJ4SVVaTXRjNDFHbGpBNGpXekt5dEhLMXVVVnlTQmZNTEFoWmROM2wtR1VmWGJLSTkxYTVkb3ROV1c0R0tzNzA0cGFPYnQybnpXWXhWZmJIMl9jbWVldndWWTU3UlpYSUZpZjdOam9mZjlvaGpyNFl4VlVRUTVSU0N4Sk9mR0J1YkxqU0V4UXEyS1pWbEw?oc=5"
+      "source": "Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWRHVk9FeFRCUWZXTDBjTzFRdXNoY3N2RnBOZms3Y1JMU1FJXzVpUjNCOFlfdVE3cHNKdDJVd1U1RktnZHNEVnNJcTZ4MW1ndWVZTVhlZ0hGUXoycUJiZEVhMFJQbE5SaTBKZUFJYlo5TXlLQnY2Zmk3QUJUdnFSSXUwamJHbWpCY0g1YW9KTEdCb05LOHpvVEpCUzhyOXBydm9CQ0t0alpjY2IzOUpXRHRFU1QybjVoRkdNRw?oc=5"
     }
   }
 }
