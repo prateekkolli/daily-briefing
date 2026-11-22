@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-21T18:20:13",
+  "updated": "2026-11-22T18:44:18",
   "tech": [
     {
       "tag": "AI",
-      "title": "Can Anthropic afford to put safety first?",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this…",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files…",
       "source": "",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
     },
     {
       "tag": "AI",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of…",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things…",
       "source": "",
-      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
     },
     {
       "tag": "AI",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our…",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of…",
       "source": "",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "He expected a small-business loan. He got a 7-year nightmare",
+      "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance"
+    },
+    {
+      "tag": "Economy",
+      "title": "What's next after a brutal stock plunge we might have seen coming",
+      "summary": "Stocks tanked this week as investors grew wary of tech investments that have seen years of growth. NPR's Rob Schmitz speaks with Katie Martin of the Financial Times about the global ripple effects.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6049146/whats-next-after-a-brutal-stock-plunge-we-might-have-seen-coming"
+    },
     {
       "tag": "Economy",
       "title": "Just how vulnerable are we to cyberattacks?",
       "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
       "source": "",
       "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks"
-    },
-    {
-      "tag": "Economy",
-      "title": "Can Google win the AI race without killing its cash cow?",
-      "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
-      "source": "",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow"
-    },
-    {
-      "tag": "Economy",
-      "title": "She went to college to become a social worker. Now she's joined the skilled trades",
-      "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs"
     }
   ],
   "science": [
@@ -73,40 +73,40 @@
     "national": [
       {
         "tag": "National",
-        "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
-        "summary": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
+        "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+        "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats"
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress"
       },
       {
         "tag": "National",
-        "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
-        "summary": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries.",
+        "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+        "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker"
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
       },
       {
         "tag": "National",
-        "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
-        "summary": "President Trump returned from his trip to Asia, saying it was one of the most successful presidential visits to that continent -- or anywhere else -- in American history.",
+        "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+        "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history"
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "EAST TEXAS POLITICS: Former Gov. Rick Perry on Democratic wins: ‘I’m not going to tell you I saw that coming’ - KLTV.com",
+        "title": "Will you be talking politics at the Thanksgiving table? - Austin American-Statesman",
         "summary": "",
-        "source": "KLTV.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnFUU3NKSlR5OXFvd202VjZsc3ppUVpBZjhRdjJlMFJSQ19OTFR6cl9TajVpeVJYT19RR1JjcDFweXZ4ZHM3Y0NKV1B6NEZWUEZNRkk3Z0lVeDl0VUdJWUZCbTBkTlU4R1RGb0x6cXN4M1BKQ2ljRjFxV2ZQR0ktU0hDMlFKUFBvZkpKWl9WYV9FRno4Qm9ZR0JFN3dOY1VFZzZsUlJrWDdGbV9rV1JxWlZrZExCV2UwY0dGOWl3dW01dmU3NVgwcmZn0gHeAUFVX3lxTFBmWUJ6OW9LSFM1QWstTkstYjlYUktPcFZsUGVubHAwelZZLTJMYVpOVTBFTG9zeVA2OHVScDJJZG5VMlAzbDdLelIzcEpQYUxzVG5FMGI3VDdiYWFPNGtPcmdZN1hscTNpcnZNVkQ4ZGlUWFVESks2NV9jUmItclp2YjljaVZWZHFQa2NhSTktQUJwYUlzdGppYklGU1pvSmJ2c251MkhHQVJtQ0puUXBCa3lJWWVYdU5taFZCdFNHYmNET2txdW1rQ2dWZ25MdndkQlppMzdYcXNuSU9Zdw?oc=5"
+        "source": "Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWExYRU01dmhXTXM0TXktZHRkYUxEUWh6Rk1UczRkWG1VV1MxczgzNjBnVGFQXzdyampaQ2RFZXNOc3RoT2lUdlphRGQyX25OLUxrVVREcmo4aEVtRDhzZWZNdEdmMGFyaWk5X3VmbDV0Z2p5MjZaWWxkbXRrMW8yNXdZaU91UnBVbkRlSjJobjlYTDE1WTM0VWNsUQ?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Texas Railroad Commissioner-elect joins Inside Texas Politics to discuss priorities, how he plans to double its budget - WFAA",
-        "summary": "",
-        "source": "WFAA",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOTJPWjk2ZGJmUVdhNTZ6c2o4VkZvZXRVakJwSnY4bmFvb3dHMUFzY1pRS0lhalFNdXI3dy1ib3p4bndobFRFdlVzdXItZmNGSjNqM0M0eTIzMXFhWmJmeGJiSEdQajUtVG1iLXVkb2Nra0NIenEtMTRMSkljN1NrQkJ0VHZybzl3ZVdxQm1jeTRLYjgwbG5PVEJZaWdpd1RhVWF0MHpqWHBVOGZRbTIzMXZHR0p2cVZkemlHUTg1ZFhVVXc1UWpDWGtuNkhRWXg4SU9vR2dBWGhIREVVZkZ0a21zRWVYeEJtdE1lVlBQZHA4Z3BDYWZkajh2Nk5jSUpRNENndXFmVS15Z0pJMWtMRjRWenpTYm5JUEViR2pNd1F5VUVfX1k2Ni14d1Zvd2dKM2E0MGsyOXFXM0djYWpWWnNpOGs?oc=5"
+        "title": "Inside Texas Politics - newswest9.com",
+        "summary": "Inside Texas Politics newswest9.com",
+        "source": "newswest9.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOFc5SHl1T0l4amFDblZESHFHdl96RHRDN2ZraHBxS3ZiNVZZX3NKQUpFOGl4SllRNHV0SUNYSDJycVhGa2FpUE5vMGR5QWxYNnhkX3k2ZlVaX2hfUDJiTWFpMjBRblBJU1h2NG1IX09ScmNaNFpHalVldmVtYVJrajdzcktJVmNZSnN2d1hfclNyZXg0QjB3b3VLeXRvV0JFT0NseTdWazFmcEF0U0hzbg?oc=5"
       }
     ]
   },
@@ -135,38 +135,46 @@
       },
       {
         "tag": "Tracking",
+        "title": "Lawmakers renew push for a federal Diwali holiday - Northwest Asian Weekly",
+        "summary": "",
+        "source": "Northwest Asian Weekly",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2djRzJnbWM0ZURGYk11eVhXUDVyOWVNNURDaUtUeFp6WDdGX0VvLW1UNGp3WU1heXFnNlJKMUt6UjBzTFlwM0ZScnVFcjV3bmhzenU4OF9vX184Q0pjOV8zRTNGMVhob2xqZlFpMmFHN3ZyZW05dDYza2FGdTZ1RnhMRnNfR2VPREZsLQ?oc=5"
+      },
+      {
+        "tag": "Tracking",
         "title": "India Accuses US Religious Freedom Commission of Bias, Cites Silence on Anti-Indian Hate Crimes - INDIA New England News",
         "summary": "",
         "source": "INDIA New England News",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlLQzEzMVYwZXFCeWo4b3RYOXhHRUY5V085OWNaVkFGdUxGaEt4UG4wZTkwajRpSUhYS2VUNXgwNEZwX1BONjFQS0ZYU0FzWGVyLVdKOUdtaTY3eHljZ2FMRFFVVUhYOWZhMmtkTExEOEJzT2UwU1FwUVE3cXBxelRMb2wwVE9Dc0dSdjlmUUZ6VWh1bTJYVW0xeE8zQUNzYXdaUUd1VkI0cDFSRnpkOWt1WU5QVlNha2lCR2JWTUU?oc=5"
-      },
-      {
-        "tag": "Tracking",
-        "title": "‘Responsibility To Banish That Hatred’: Zohran Mamdani Condemns Anti-Indian Racism At Diwali Event - Open Magazine",
-        "summary": "",
-        "source": "Open Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONENPbnlhV1VVUmRWUTJsck5fdW1FR1dXazdCX1VjLTJTVWdmQWptMFBBNS1NUG1lWEdWTjZCSDBhdmVYU2Z3bE5yb1A5Y0tlNTZES0NVcVcyMC1fNXl2eVBmeXpQdFJDdXNKN3JzdkphbC1QalhXbGt5eFQ5dTJJelNtdTJtVENtWFNQRGVhZElacE1vYlhQV05lelRUUnRTNE55S3lHMVZUWVczNmNJZVpaUHViT1JmLURzbFFYMHZlSlFhUVVzWg?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "LA Clippers vs Dallas Mavericks Nov 21, 2026 Game Summary - NBA.com",
+      "headline": "Dallas Mavericks @ Utah Jazz: Live game updates, stats, play-by-play - Yahoo Sports",
       "summary": "",
-      "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbURWZ29wbHRkWU5GOU8yaDc1RGtYN0oyWkJWQ1UyTkZoZmlHOXk5Ql9HNC11dGJWVnhIUlotTnYxV1BTWjNWeVh1VG5UamxNTlNPNHNkRnZpQQ?oc=5"
+      "source": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05RW45cFIwdGlsYlRZQjBETFlBbHNXWGZFejZfNE1JNnFDSFZzUFFEVEdfSG5ISHR0aE9FSFltejF3ZWllbFVTZ2xnQU55RVB6aU9vS0xKTW9YWTB1NkRGRU9vbno0Q2tBel95ZENfaUVNY1ltX3c?oc=5"
     },
     "cowboys": {
-      "headline": "Mike Pettine on taking over as Cowboys' defensive play-caller, dynamic with Christian Parker - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Starlights: Big play tracker for Cowboys-Titans - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
       "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnpiTFBnODZybEVQa19lZm4zaW1CVHJaQWpTeGlneFdtZU91MXYyVFpOVGYtM3pia2s3OUF0OWM1bWVOUFROY3N2YW1OVmgyTzVmVmExTjFmczk5NkRTS09sVDdUdC1xOHJWX2NSUTBsdzl1Z0lEMjY4bDBWTGE5T2pOZUtiMFNhREMzTUdnRmVMZG1LWGoweDBqSDZ3WE14eVR4RUFtckJZdzJJLUxxVndvYWRlZVFLaDNiZjgyVE40NXM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTm56N3c1bUpsVUZRTThTRDBjaXVBSzBHeUNLUGlGY3hUMWxnSGhvRE43U3BCU1NVQWlVdWRjLWFmckk4aUlGR0pINUNJOFBlQVRleHg5bEVuZ2FkX0FkWkRFWXZ5QTZtZ0tHYUdDOHdPYXVQQXdiMmlXZTZGb3N3SmZxbWx3OEQ1?oc=5"
     },
     "longhorns": {
-      "headline": "How to watch Texas vs Arkansas football today: TV channel, predictions for Saturday game - Austin American-Statesman",
+      "headline": "What Texas Longhorns Players Said About Texas A&M After Arkansas Game - Sports Illustrated",
       "summary": "",
-      "source": "Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWRHVk9FeFRCUWZXTDBjTzFRdXNoY3N2RnBOZms3Y1JMU1FJXzVpUjNCOFlfdVE3cHNKdDJVd1U1RktnZHNEVnNJcTZ4MW1ndWVZTVhlZ0hGUXoycUJiZEVhMFJQbE5SaTBKZUFJYlo5TXlLQnY2Zmk3QUJUdnFSSXUwamJHbWpCY0g1YW9KTEdCb05LOHpvVEpCUzhyOXBydm9CQ0t0alpjY2IzOUpXRHRFU1QybjVoRkdNRw?oc=5"
+      "source": "Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkJPVEE3NVF0QnRMWHM5MGg4bnFvd3M3Z0pqWHVTVXpkbU5LUHZMcUtnWFJ3dENvbWZVelpFaWhXT3BGRGlMY1FSSm1zbzlZamJHQmRidkl0YXlRZWVWY0pNODdGRXlEWGJnZ0g0Wlo5ZVBlbWsyZ05oSjN5YmJNMl82Zk1ocTFLLUxWUDhsQjlaRU1adFJMaU9JaVItdlczQi1XM1MxeHlFQ1RhdHB3?oc=5"
     }
-  }
+  },
+  "breakingSports": [
+    "Tom Jackson, who formed Hall of Fame ESPN tandem with Chris Berman, dies at 75",
+    "Sources: Florida State's coaching search focused on Georgia DC Schumann",
+    "Liverpool trounce 10-man United in Pochettino's first game in charge",
+    "Wemby makes history in 18 minutes, finishes game with 50 points",
+    "Verstappen mocks 'complete joke' Russell at Las Vegas GP as feud intensifies",
+    "Ex-Colts QB Jones likely to wait before signing with new team, sources say"
+  ]
 }
