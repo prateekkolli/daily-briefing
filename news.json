@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-23T22:57:31",
+  "updated": "2026-11-24T21:36:55",
   "tech": [
     {
       "tag": "AI",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that…",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
     },
     {
       "tag": "AI",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia…",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
     },
     {
       "tag": "AI",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is…",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began…",
       "source": "",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "What should it cost to insure a home in wildfire country?",
+      "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+      "source": "",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country"
+    },
     {
       "tag": "Economy",
       "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
@@ -37,76 +44,69 @@
       "summary": "NPR's Michel Martin speaks with Mark Zandi, chief economist for Moody's Analytics, about Anthropic's Wall Street debut and why it seems to have triggered recent market volatility.",
       "source": "",
       "link": "https://www.npr.org/2026/11/23/nx-s1-6048611/chief-economist-for-moodys-analytics-on-why-anthropics-ipo-caused-market-volatility"
-    },
-    {
-      "tag": "Economy",
-      "title": "AI is making it hard for young people to find work, report says",
-      "summary": "NPR's Steve Inskeep speaks with Matt Sigelman, president of the Burning Glass Institute, about a new report indicating that AI is already squeezing the job market for young jobseekers.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6048624/ai-is-making-it-hard-for-young-people-to-find-work-report-says"
     }
   ],
   "science": [
     {
       "tag": "Science",
-      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
-      "summary": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter. Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about…",
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
     },
     {
       "tag": "Science",
-      "title": "Two monster black holes from the dawn of time defy explanation",
-      "summary": "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang. Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far…",
+      "title": "Earth's next ice age may have already begun. Global warming stopped it",
+      "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
     },
     {
       "tag": "Science",
-      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
-      "summary": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman. The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course…",
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+      "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-        "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+        "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+        "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
       },
       {
         "tag": "National",
-        "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-        "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+        "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+        "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+        "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
       },
       {
         "tag": "National",
-        "title": "After midterm losses, Republicans debate what's next for the party",
-        "summary": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
+        "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
+        "summary": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party"
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "After decades, Texas Democrats have political capital. This is how they plan to spend it - Reuters",
+        "title": "Texas State Board of Education to gain Democratic majority next year - ABC13 Houston",
         "summary": "",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU53dWdEVDJ2QmliNXl1TUJ4akkzYmtobXpsaVNUV0FRNHhQUXBBRjUta0ZxUGg3My13bFJ5VUxJUU9FVXNtOG82eE5fcTR0Q1hURUJCbmJEcjVPb1hmZFotZ0N5OVhlaUdSa2tMRWF3RGNDb1JaR2hPeWdpMDBTSVQ2MnFxNHYwa0o1T2JlTzduY0EwTU5aN1pmamdnT1YzSnEyNno3YndwaTNLbTlyTHM0aXZTMXJrVnZ6dkxmdzNqcU0?oc=5"
+        "source": "ABC13 Houston",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzFhallRdTVNOXNub2M5Y0pTRWMtOTdIQi10UGIwX3Vnb2xjTzBpR01WSnhBbDZEN0NoMVFtV0R4TWxXRkVWcGNua2ZZclVLMDhnTmlEUHBZRXdWNnlROGRROGFWY2ZfQ3FhNmNHUUNvSGNWQTRXNmg2Z0stSS11LU5adUh5bTE0aW9wZU9GNFNUdDBH0gGaAUFVX3lxTFBxTExHSjllWWZjUFdLN1JjMTdlRXdKckhXT3Ixa014VTFMQWxMS3FqdktCRVE5VDlzYVVyaHNWanp2aFg0N3hlVk5NaFRsQWhLNURWNzdSQmhyRzFRMF9IMnJPa0xXMnBFN1gxSEI5ME9nOUtIc09BSVc0clFrWmFSU2MwdlJjRDFNbWZWN3Z6ejg5SHdCaVZvQlE?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "The change in state politics could soon have a domino-effect winner — Texas cities. - KERA News Breakthroughs",
+        "title": "New ACA identity checks delay health insurance enrollment - The Texas Tribune",
         "summary": "",
-        "source": "KERA News Breakthroughs",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSaS1TMVY5QjhmYTdRYjhWazMyZjFvSDR2U19iaE1nbUduSHZKdmMwMjcwajNlNFZabkV0cFdsTjFZY3FkRUZWWlNHaE5Cc09FQlNfa0k0WmZmOUJLUWtUT0tRdXlsZnpNTG95Snd5SW9ZNkNIRmVYbA?oc=5"
+        "source": "The Texas Tribune",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWFpX09QajZTQ3hTQ1h4WENOQzJPempuQ2NvOXByaGFaRVFGMi1BSXVraWtZV01CT0FESGVBWXZPZGVkQkU2TUlaTGNwR0ljMkhuaEJleW1mZ1pJNHBDbjRiZGZ4WXZPTFhiLUhMZGV5N0lKdVBwUnZ4d184QXRPNkd2d3lEWXRfdFR6ay16Y1dVWWdwNkE?oc=5"
       }
     ]
   },
@@ -151,22 +151,22 @@
   },
   "sports": {
     "mavericks": {
-      "headline": "Dallas Mavericks vs LA Clippers Mar 22, 2027 Game Summary - NBA.com",
+      "headline": "Denver Nuggets Release Clean Injury Report vs. Dallas Mavericks - Sports Illustrated",
       "summary": "",
-      "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQTFd0NWJzR3MtYms5U2pPSExSdmpGQzRQNW1BWXo5dUFzOENGbnBWYVE5OXVWTVp2dk9sUEdMRzZkaUJWcVppTTFvZjNWX2VPUUhqMWYyZ2xKT3U5VXFrTHVQc21wV1RTc2ZyYjlqS0dyVWtXUXd1dUhBbVRZc19abWNESnNoa3FZSk5xNXU3WFVWRVo1djA4Y2NfcmxtVzRFaU96S3A2MDF6UUVCS3dqOFJYUEdXOXE5ZFF2Q2QwbElwWTk0QUxGeXdkTU5DX3hmSXVHWEdFcUhlbzdZN0ZQd0lMMTZmWnJ4dHFEOWczeXFqZ19jYTRlQW0zTHBqSWlOelcwOVJFa2ZVY0p5Sk8yZUFFcmVJc3JiUE0zY0lxWTBJaFFyM2dvY0E1ZEdrLTVDZXAwRld6SjlKeXpqVEVfQjVDQnJaZmppTnRaaEwzU0FVMVMtdk1DckVobnE3WlZ5czBSdFM1V19vcDJnT3hETHpGQ3hlVkQtZEtXeDNMMmRYWi12aVB6dFFROXpwQjdGNkRZNHVHZmhlVUdqa0JBam5XaHM3eENhalJYWTk4cHE5anduWWZiYUJxVGtyZGFiUVdqWTF2ZEx0azFFTmlsMU15Q1V5Z1pYWkFUR195NnZLNmg2ZjlNWUdORldKb0pFX2JxZ3hMSXRBSVhMMG9YUldiOU04NzFUZjZ2MVlNMTRuWmdESjFaYlBkQVZadzk0VFFtWmRPTTVNUzlNeUtTZW83TXh4QQ?oc=5"
+      "source": "Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblVkZ0YzS0RQdkE5ODNPaWl5c2VsLTFna1NDY0hyYlJJYVliVkpxbDdmMmQ4NFA4dnlnVnRKYnRFam9xczgxRDdBWW5KaEluWkR5QzRSeThjbGI1c24wMXRQaG5DVUd0eF9IOEx4NDViWHEyVDdicW5NNGFreUZBODhBR0NGVEhhNExVMzZIZldHMTh1MVBmYk5ROGI3S1E?oc=5"
     },
     "cowboys": {
-      "headline": "James Houston surging for growing Cowboys defense - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Cowboys-Eagles: How to Watch, Listen, Stream on Thanksgiving - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
       "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmM5dTlWVERNeXh3VWphVE1YM05mYVM2eXl6Ml9kd3ZxWUdMYWJzRmhMNjc2ZDVhbnU1VjBZVzA3WmVOWmM2UGstNlpRVzBHM09ueDVwalBvNjlEUmxZNm9Kelg4Q2xCWXM2eWM0TFB1MnVNcTJraTU1SFI5LU1uRUluMG9KbFdqQ3VGWA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSW13TWFNZjQyeml4X1MzVlRueDg5OWhXMk1lZFpKRWZSZjBfTEZheHNFaDJzRG9ibVBVQndSNm0waEtUa3dsYUt6WXF3SzlKUmJlVGxOc1lqQWp6U1Z0azlmYlV0X2J3Ri05ckdtSTRTZEp4b1liR2NndUR5NFZSU1JQLUZRSm9wOGlrZmFGV2xCdzRfLU9r?oc=5"
     },
     "longhorns": {
-      "headline": "Texas S Kobe Black out for season - Burnt Orange Nation",
-      "summary": "Texas S Kobe Black out for season Burnt Orange Nation",
+      "headline": "Texas DC Will Muschamp calls his move to Austin his last - Burnt Orange Nation",
+      "summary": "",
       "source": "Burnt Orange Nation",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFV4NHZyWGVWSElqeDJYMkpjRHg2M2RqN2FJQng2NERmWnpSYnJBUnM0bERlZ29IWnI3UnBTcElpMEgxQVhKZmpXMmZqMExCWlI0QUpvbXBucVZ0UWhjRUtRbXc0QnpXY05kVmdaSWxyTG83MnpVY3pudUFOU284Q1hBSGJpR1BEQ0ttSG5kX2FaQVFJUUMtbGllTm1OQmEy?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDVFcFN0ckpldW8wN1d2NG9rMjVYa2hXWlFBa0Z2cHE4VmV4LWRjYnItc0pNMnE1YzVIOGhUUmVqd2VWTlhWWTBES1MyWVpXSG53OTdIYjl4dnpLbndPeUdzTHdmLWhOYjFJUkhUeXM4Y0VOdThWLVVodEMyeS1oQkNRa2lfTUJRYzhPM3V4LVR1aEdJVVhxVDZ0WHdUclE3U0lyejVFWTRCcGc?oc=5"
     }
   }
 }
