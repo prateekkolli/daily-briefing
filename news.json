@@ -1,112 +1,112 @@
 {
-  "updated": "2026-11-24T21:36:55",
+  "updated": "2026-11-25T20:44:24",
   "tech": [
     {
       "tag": "AI",
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The…",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin,…",
       "source": "",
-      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
     },
     {
       "tag": "AI",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is…",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes…",
       "source": "",
-      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
     },
     {
       "tag": "AI",
-      "title": "Tidal will start banning AI-generated music next month",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began…",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's…",
       "source": "",
-      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+      "summary": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts"
+    },
+    {
+      "tag": "Economy",
+      "title": "Many families are cutting corners at the grocery store to pay their other bills",
+      "summary": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6047499/many-families-are-cutting-corners-at-the-grocery-store-to-pay-their-other-bills"
+    },
     {
       "tag": "Economy",
       "title": "What should it cost to insure a home in wildfire country?",
       "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
       "source": "",
       "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country"
-    },
-    {
-      "tag": "Economy",
-      "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
-      "summary": "Artificial intelligence is sending shock waves through the stock market, as investors try to predict how their big bets will pay off. Meanwhile some real businesses are putting AI to work, with mixed results.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy"
-    },
-    {
-      "tag": "Economy",
-      "title": "Chief economist for Moody's Analytics on why Anthropic's IPO caused market volatility",
-      "summary": "NPR's Michel Martin speaks with Mark Zandi, chief economist for Moody's Analytics, about Anthropic's Wall Street debut and why it seems to have triggered recent market volatility.",
-      "source": "",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6048611/chief-economist-for-moodys-analytics-on-why-anthropics-ipo-caused-market-volatility"
     }
   ],
   "science": [
     {
       "tag": "Science",
-      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
-      "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "summary": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
     },
     {
       "tag": "Science",
-      "title": "Earth's next ice age may have already begun. Global warming stopped it",
-      "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began…",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
     },
     {
       "tag": "Science",
-      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-      "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled…",
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-        "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+        "title": "Group of Senate Democrats push to add freshman to leadership",
+        "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
+        "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
       },
       {
         "tag": "National",
-        "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-        "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+        "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+        "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+        "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
       },
       {
         "tag": "National",
-        "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
-        "summary": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
+        "title": "Moving to Florida may become a choice of some Republicans after midterms",
+        "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy"
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Texas State Board of Education to gain Democratic majority next year - ABC13 Houston",
+        "title": "Texas lawmakers should promote fatherhood, family skills in 2027, report says - The Texas Tribune",
         "summary": "",
-        "source": "ABC13 Houston",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzFhallRdTVNOXNub2M5Y0pTRWMtOTdIQi10UGIwX3Vnb2xjTzBpR01WSnhBbDZEN0NoMVFtV0R4TWxXRkVWcGNua2ZZclVLMDhnTmlEUHBZRXdWNnlROGRROGFWY2ZfQ3FhNmNHUUNvSGNWQTRXNmg2Z0stSS11LU5adUh5bTE0aW9wZU9GNFNUdDBH0gGaAUFVX3lxTFBxTExHSjllWWZjUFdLN1JjMTdlRXdKckhXT3Ixa014VTFMQWxMS3FqdktCRVE5VDlzYVVyaHNWanp2aFg0N3hlVk5NaFRsQWhLNURWNzdSQmhyRzFRMF9IMnJPa0xXMnBFN1gxSEI5ME9nOUtIc09BSVc0clFrWmFSU2MwdlJjRDFNbWZWN3Z6ejg5SHdCaVZvQlE?oc=5"
+        "source": "The Texas Tribune",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHlGdEkyTWN6N18xT1h1TXlmOFE4Ylp3dDdQM0szTWdYR2NGai1HTXc5a1VEcFZkLU12YlVZMUNMNi0wTEh5OGVwRXI0SGIxVjBESHUyMWFvcHFBbU9VaWZBMXVEbmQwRGdCOVpmV2RoR2FzeTVZQmZiXzhDa3d6Unh1S05pX1k?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "New ACA identity checks delay health insurance enrollment - The Texas Tribune",
+        "title": "Texas Democrats are about to take power. Here’s what to expect - Fort Worth Star-Telegram",
         "summary": "",
-        "source": "The Texas Tribune",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWFpX09QajZTQ3hTQ1h4WENOQzJPempuQ2NvOXByaGFaRVFGMi1BSXVraWtZV01CT0FESGVBWXZPZGVkQkU2TUlaTGNwR0ljMkhuaEJleW1mZ1pJNHBDbjRiZGZ4WXZPTFhiLUhMZGV5N0lKdVBwUnZ4d184QXRPNkd2d3lEWXRfdFR6ay16Y1dVWWdwNkE?oc=5"
+        "source": "Fort Worth Star-Telegram",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjNWdTRnaEZaeDdSaFZvMmk0Y01iT1JUUGdLODJJekpBZGVsaFpKT29wNVNCZkZaN2E5Vl9pUXd3cy1KOXpIVVBJUkotQTJSX3dVWWphTXpfNVgxOHRfMmFIYjh0eWZTcHgzaEVvQ19lQ0psMjNoR0Q0bExEamtjNmpRdi04by0wLVZ6TlpuUzUteHFERXfSAZYBQVVfeXFMUE1LUG9rMGRuWkR1a05KX205SHhtaERtVHFGb2ZXNGFrbHZfeGVnU3IyWFhjYU5paEp0MmhqcFZYWnVuTmxzN18xdHZ3djVQdTlxX3BuSV9YQWI5bVN1REt1Wk9HQTV1eW9jWlhIUTNRQUxzMG5XOUJSWmstYi1zeEhGckNCbDZZcFBJd3NCRHJDcXVWQXlB?oc=5"
       }
     ]
   },
@@ -135,38 +135,38 @@
       },
       {
         "tag": "Tracking",
-        "title": "US Lawmakers Condemn Anti-Indian Hate, Call for Unity at Capitol Hill Diwali Celebration - INDIA New England News",
+        "title": "India Accuses US Religious Freedom Commission of Bias, Cites Silence on Anti-Indian Hate Crimes - INDIA New England News",
         "summary": "",
         "source": "INDIA New England News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODBIaXQwZ0VoZmlvU3JXWUlEU3ZqeXMza0VlOHZMZnpvS0JEaGtDOHhzbzNwWHdEQnl3OEFHTFlMWHNTN0tkTGZuMHg3ZTRaMnhRSmhfVXRsajlrX0NXYUJGRmIzb081UktTRjlWajZMUUdScmktM3RUSkpTMmdpTnFJU05SNmVPOEE4bWsweExkN2tLQVhINEhWNUZKWUcwLXlYdlgtSXpnU1h1MFk5bTdYMDlPaEU?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlLQzEzMVYwZXFCeWo4b3RYOXhHRUY5V085OWNaVkFGdUxGaEt4UG4wZTkwajRpSUhYS2VUNXgwNEZwX1BONjFQS0ZYU0FzWGVyLVdKOUdtaTY3eHljZ2FMRFFVVUhYOWZhMmtkTExEOEJzT2UwU1FwUVE3cXBxelRMb2wwVE9Dc0dSdjlmUUZ6VWh1bTJYVW0xeE8zQUNzYXdaUUd1VkI0cDFSRnpkOWt1WU5QVlNha2lCR2JWTUU?oc=5"
       },
       {
         "tag": "Tracking",
-        "title": "Lawmakers renew push for a federal Diwali holiday - Northwest Asian Weekly",
+        "title": "Man arrested over repeated vandalism of California Sikh sign. Advocates warn of ‘anti-Sikh hate’ - Yahoo",
         "summary": "",
-        "source": "Northwest Asian Weekly",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2djRzJnbWM0ZURGYk11eVhXUDVyOWVNNURDaUtUeFp6WDdGX0VvLW1UNGp3WU1heXFnNlJKMUt6UjBzTFlwM0ZScnVFcjV3bmhzenU4OF9vX184Q0pjOV8zRTNGMVhob2xqZlFpMmFHN3ZyZW05dDYza2FGdTZ1RnhMRnNfR2VPREZsLQ?oc=5"
+        "source": "Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2haVFBCblZrak9BODh0SDdxNTkzSUMydnNDRjBwQ0JDbmtBNndtSWlyblBiVlMxRUYzTFRENURNVERJc25IdTdnR2k0SkxhVUdORndBOEc3cnREOS10b2JpWVFRZ3VkeUFJc0U5UmFSRXJoeDlfNE9tRUc2d2tpRWZlbzVFZjVvT29VVC1QWl92N2xV?oc=5"
       }
     ]
   },
   "sports": {
     "mavericks": {
-      "headline": "Denver Nuggets Release Clean Injury Report vs. Dallas Mavericks - Sports Illustrated",
+      "headline": "Where the Dallas Mavericks stand in the NBA cup - Mavs Moneyball",
       "summary": "",
-      "source": "Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblVkZ0YzS0RQdkE5ODNPaWl5c2VsLTFna1NDY0hyYlJJYVliVkpxbDdmMmQ4NFA4dnlnVnRKYnRFam9xczgxRDdBWW5KaEluWkR5QzRSeThjbGI1c24wMXRQaG5DVUd0eF9IOEx4NDViWHEyVDdicW5NNGFreUZBODhBR0NGVEhhNExVMzZIZldHMTh1MVBmYk5ROGI3S1E?oc=5"
+      "source": "Mavs Moneyball",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGpJVFhEVjBGQndTT1QzZXdMblMyN2pmckh1S3N0YzBybEhQQVNqbWFfekNFZWowbFJMZDkzNTBSbDVsYThmeU02MjFNX21sbDNQaV80ZmxSMGhRWGNsbzg3SDg2UlYtQTRLbDE4dHZZV2J6NjA2Z0FaZUN1LWtUWFJ3VjNpaTZiSlZaQTROTFdqcEJ6VmtnT1dLVVlGOG8?oc=5"
     },
     "cowboys": {
-      "headline": "Cowboys-Eagles: How to Watch, Listen, Stream on Thanksgiving - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Mailbag: Can Overshown find success as an edge? - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
       "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSW13TWFNZjQyeml4X1MzVlRueDg5OWhXMk1lZFpKRWZSZjBfTEZheHNFaDJzRG9ibVBVQndSNm0waEtUa3dsYUt6WXF3SzlKUmJlVGxOc1lqQWp6U1Z0azlmYlV0X2J3Ri05ckdtSTRTZEp4b1liR2NndUR5NFZSU1JQLUZRSm9wOGlrZmFGV2xCdzRfLU9r?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXYtWXl5d2dJQjdEclpCM2FyMjNYWS1xUmZaUmVHZzNid1otVXF1c1RZQlEwZ2xIMkNtZER3V1ZLX0N6c1JVcTRWNXVVaTdydmNZc1l0bThvLWctWjFFQ0VzV0tsa0JfLWZFWUlGcFpjdkNEeTJCLXpoc3NtN1czNjBCSmY4Zjg?oc=5"
     },
     "longhorns": {
-      "headline": "Texas DC Will Muschamp calls his move to Austin his last - Burnt Orange Nation",
+      "headline": "Texas has a CFP bye right now. But what if Longhorns lose to Georgia? - Austin American-Statesman",
       "summary": "",
-      "source": "Burnt Orange Nation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDVFcFN0ckpldW8wN1d2NG9rMjVYa2hXWlFBa0Z2cHE4VmV4LWRjYnItc0pNMnE1YzVIOGhUUmVqd2VWTlhWWTBES1MyWVpXSG53OTdIYjl4dnpLbndPeUdzTHdmLWhOYjFJUkhUeXM4Y0VOdThWLVVodEMyeS1oQkNRa2lfTUJRYzhPM3V4LVR1aEdJVVhxVDZ0WHdUclE3U0lyejVFWTRCcGc?oc=5"
+      "source": "Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORENPOHdfOHhYalNVdGktbzJRdmtqU29wSTZ3a1NuSFVCZGlTMWNVU05FNGswS09lTk5EajB2emRpZWFDT3FGSk12Y2daalF1TFpxYWxYdzJNdHR5cGxZSG9nRkZwcVAzMTJLeDdCa2xVTGd4R0dYcTRPVzdicW10R1FkeVBKSmY4cTBESTBPMFdJb0dtZWRLZWxlUWx3Y3JIVXBPNE1zYVpSNzlH?oc=5"
     }
   }
 }
