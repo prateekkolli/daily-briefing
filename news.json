@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-25T20:44:24",
+  "updated": "2026-11-26T20:36:27",
   "tech": [
+    {
+      "tag": "AI",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more…",
+      "source": "",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    },
+    {
+      "tag": "AI",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit…",
+      "source": "",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
     {
       "tag": "AI",
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin,…",
       "source": "",
       "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-    },
-    {
-      "tag": "AI",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes…",
-      "source": "",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
-    },
-    {
-      "tag": "AI",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's…",
-      "source": "",
-      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
     }
   ],
   "economy": [
+    {
+      "tag": "Economy",
+      "title": "Inflation is still hot, fueled in part by the AI boom",
+      "summary": "The U.S. economy grew at a rapid clip during the summer and early fall, due in part to the artificial intelligence boom. That boom is also fueling higher inflation and rattling the stock market.",
+      "source": "",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom"
+    },
     {
       "tag": "Economy",
       "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
@@ -37,76 +44,69 @@
       "summary": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out.",
       "source": "",
       "link": "https://www.npr.org/2026/11/24/nx-s1-6047499/many-families-are-cutting-corners-at-the-grocery-store-to-pay-their-other-bills"
-    },
-    {
-      "tag": "Economy",
-      "title": "What should it cost to insure a home in wildfire country?",
-      "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
-      "source": "",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country"
     }
   ],
   "science": [
     {
       "tag": "Science",
-      "title": "A space telescope hunting for dark matter just discovered something unexpected",
-      "summary": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to…",
+      "title": "This 345-million-year-old fossil had scientists fooled for decades",
+      "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
     },
     {
       "tag": "Science",
-      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-      "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any…",
+      "title": "The surprising reason women seem better at multitasking than men",
+      "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
     },
     {
       "tag": "Science",
-      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and…",
+      "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+      "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
-        "title": "Group of Senate Democrats push to add freshman to leadership",
-        "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+        "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+        "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
+        "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
       },
       {
         "tag": "National",
-        "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-        "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+        "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
+        "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+        "link": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
       },
       {
         "tag": "National",
-        "title": "Moving to Florida may become a choice of some Republicans after midterms",
-        "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+        "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
+        "summary": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
         "source": "",
-        "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
+        "link": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
       }
     ],
     "texas": [
       {
         "tag": "Texas",
-        "title": "Texas lawmakers should promote fatherhood, family skills in 2027, report says - The Texas Tribune",
+        "title": "Inside Texas Politics | The 2026 Turkey Awards - WFAA",
         "summary": "",
-        "source": "The Texas Tribune",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHlGdEkyTWN6N18xT1h1TXlmOFE4Ylp3dDdQM0szTWdYR2NGai1HTXc5a1VEcFZkLU12YlVZMUNMNi0wTEh5OGVwRXI0SGIxVjBESHUyMWFvcHFBbU9VaWZBMXVEbmQwRGdCOVpmV2RoR2FzeTVZQmZiXzhDa3d6Unh1S05pX1k?oc=5"
+        "source": "WFAA",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHNYNkhYRFFEd0FBQ3NZX0NOcWo5MnVBRzVkRVJYMGM1MllVdTJNN0dHcTVZaGlRbHM0czFJazd0VU5xUkxJUmk2UGJCblQ2UGZhYnlRX3RwbWQySDAxcWZWbmJhdkFUYVVJRFA5WllSbV9aSjVuV01BazJZZ1Noem1teWV0ZWVJWnhuOTZ3cV9FeTBIaUFCblVrNDhJYXBGRGtEaFRkdXI2bGJ0VkVzWldjQ0x5MXZRZHdsSFJZY3IyRE5vdUNGQV9rZmdacDBlT05JSHREaWVSQmc4XzJhMkNseTJ6MDMzZUdn?oc=5"
       },
       {
         "tag": "Texas",
-        "title": "Texas Democrats are about to take power. Here’s what to expect - Fort Worth Star-Telegram",
+        "title": "Gina Hinojosa | Texas Governor, Political Beliefs, Family, Education, & Biography - Britannica",
         "summary": "",
-        "source": "Fort Worth Star-Telegram",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjNWdTRnaEZaeDdSaFZvMmk0Y01iT1JUUGdLODJJekpBZGVsaFpKT29wNVNCZkZaN2E5Vl9pUXd3cy1KOXpIVVBJUkotQTJSX3dVWWphTXpfNVgxOHRfMmFIYjh0eWZTcHgzaEVvQ19lQ0psMjNoR0Q0bExEamtjNmpRdi04by0wLVZ6TlpuUzUteHFERXfSAZYBQVVfeXFMUE1LUG9rMGRuWkR1a05KX205SHhtaERtVHFGb2ZXNGFrbHZfeGVnU3IyWFhjYU5paEp0MmhqcFZYWnVuTmxzN18xdHZ3djVQdTlxX3BuSV9YQWI5bVN1REt1Wk9HQTV1eW9jWlhIUTNRQUxzMG5XOUJSWmstYi1zeEhGckNCbDZZcFBJd3NCRHJDcXVWQXlB?oc=5"
+        "source": "Britannica",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwQjI5ZEFRQzVMV2VnMUl1XzVOdC1VSVVjWDJuWE5FUVFwYXZXUTE3M1JhSjF1bmJVMkVtTVhYQW5mZHJhZkVLYVFKbXNtb0toSzVmb2xqbU1aQ25UUjRz?oc=5"
       }
     ]
   },
@@ -151,22 +151,22 @@
   },
   "sports": {
     "mavericks": {
-      "headline": "Where the Dallas Mavericks stand in the NBA cup - Mavs Moneyball",
+      "headline": "Mavericks reach NBA Cup knockout round with Phoenix loss at Houston - NBA.com",
       "summary": "",
-      "source": "Mavs Moneyball",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGpJVFhEVjBGQndTT1QzZXdMblMyN2pmckh1S3N0YzBybEhQQVNqbWFfekNFZWowbFJMZDkzNTBSbDVsYThmeU02MjFNX21sbDNQaV80ZmxSMGhRWGNsbzg3SDg2UlYtQTRLbDE4dHZZV2J6NjA2Z0FaZUN1LWtUWFJ3VjNpaTZiSlZaQTROTFdqcEJ6VmtnT1dLVVlGOG8?oc=5"
+      "source": "NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2wwQThhYmxXd0VQNE56VkZfWjZsT0dwYzV5ODhIZ3lVNjJLcG9uNUNMcXJWbkZCeDUxOHVFaFRnZGdYTENDNnZhMXpMVUtKVEpXTU9ZaVR4S0RXZ3liX2lzRFRXSWFMYTlkTi1HZGJjdk1CNWpETFJ5VmtyMVRHb1p0bGU1VTZSTktOcTJCNnlMSmJLT05xTzd0dW1LZw?oc=5"
     },
     "cowboys": {
-      "headline": "Mailbag: Can Overshown find success as an edge? - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Trivia Thursday: Digging in for Thanksgiving - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
       "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXYtWXl5d2dJQjdEclpCM2FyMjNYWS1xUmZaUmVHZzNid1otVXF1c1RZQlEwZ2xIMkNtZER3V1ZLX0N6c1JVcTRWNXVVaTdydmNZc1l0bThvLWctWjFFQ0VzV0tsa0JfLWZFWUlGcFpjdkNEeTJCLXpoc3NtN1czNjBCSmY4Zjg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFNBdkxicWRDMDF3M0VXMmNQNVNfaHh1LXJDXzZKYmJmQUxrQ0dheXhEM2VHZ2tYUER4STRid0lHOUN4LXc2TmMxdGJJSFhLWGhmeHZVQ0ZIdG81M09DeElXa0ZTN09aOWpZaDdvOVlMOXhPd2V4UXU4TVlWaUNYR1dETnU?oc=5"
     },
     "longhorns": {
-      "headline": "Texas has a CFP bye right now. But what if Longhorns lose to Georgia? - Austin American-Statesman",
+      "headline": "Longhorns Daily News: Texas S Jelani McDonald named Thorpe Award finalist after not being included among semifinalists - Burnt Orange Nation",
       "summary": "",
-      "source": "Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORENPOHdfOHhYalNVdGktbzJRdmtqU29wSTZ3a1NuSFVCZGlTMWNVU05FNGswS09lTk5EajB2emRpZWFDT3FGSk12Y2daalF1TFpxYWxYdzJNdHR5cGxZSG9nRkZwcVAzMTJLeDdCa2xVTGd4R0dYcTRPVzdicW10R1FkeVBKSmY4cTBESTBPMFdJb0dtZWRLZWxlUWx3Y3JIVXBPNE1zYVpSNzlH?oc=5"
+      "source": "Burnt Orange Nation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEtWT1hzQVdsT1o0Qnp5VlZHVllDNVpzTS1yLUFIZTBNUUZpcWE2RTE4clI2NVhIbW5qSEtVMnJLV2ZLTHQxNGk3OFhoM0x6ajl3TWgyX1lnLWxPWGRibkFHd2VxQUJmWjRoMkpheDNzUFdKSWNxQVl4RGd0WWFJSk1xSXhHYm02SUdjM1lhVlpwamJuVWctLUEzOG5laFZHY04yaC1B?oc=5"
     }
   }
 }
