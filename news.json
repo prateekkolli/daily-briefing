@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26T20:36:27",
+  "updated": "2026-11-27T20:23:00",
   "tech": [
+    {
+      "tag": "AI",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "source": "",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    },
     {
       "tag": "AI",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -14,99 +21,92 @@
       "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit…",
       "source": "",
       "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
-    },
-    {
-      "tag": "AI",
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin,…",
-      "source": "",
-      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
     }
   ],
   "economy": [
     {
       "tag": "Economy",
-      "title": "Inflation is still hot, fueled in part by the AI boom",
-      "summary": "The U.S. economy grew at a rapid clip during the summer and early fall, due in part to the artificial intelligence boom. That boom is also fueling higher inflation and rattling the stock market.",
+      "title": "Can luxury save Macy's?",
+      "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
       "source": "",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom"
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
     },
     {
       "tag": "Economy",
-      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-      "summary": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+      "title": "Record spending expected on Black Friday",
+      "summary": "Americans are expected to spend more money on Black Friday than any other day this year. How is inflation and the current economic situation affecting that?",
       "source": "",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts"
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6047460/record-spending-expected-on-black-friday"
     },
     {
       "tag": "Economy",
-      "title": "Many families are cutting corners at the grocery store to pay their other bills",
-      "summary": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out.",
+      "title": "Why Americans are still Black Friday shopping despite strained wallets",
+      "summary": "NPR's A Martinez asks Georgia Tech Professor Chris Gaffney why Americans continue to spend during the holidays, despite trouble spots in the economy.",
       "source": "",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6047499/many-families-are-cutting-corners-at-the-grocery-store-to-pay-their-other-bills"
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6054846/why-americans-are-still-black-friday-shopping-despite-strained-wallets"
     }
   ],
   "science": [
     {
       "tag": "Science",
-      "title": "This 345-million-year-old fossil had scientists fooled for decades",
-      "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery…",
+      "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+      "summary": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists discovered that the tusk contains two intertwined microscopic spirals that twist in…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
     },
     {
       "tag": "Science",
-      "title": "The surprising reason women seem better at multitasking than men",
-      "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
+      "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+      "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm"
     },
     {
       "tag": "Science",
-      "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
-      "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with…",
+      "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+      "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker…",
       "source": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm"
     }
   ],
   "politics": {
     "national": [
       {
         "tag": "National",
+        "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+        "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+        "source": "",
+        "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+      },
+      {
+        "tag": "National",
+        "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+        "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?",
+        "source": "",
+        "link": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
+      },
+      {
+        "tag": "National",
         "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
         "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
         "source": "",
         "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
-      },
-      {
-        "tag": "National",
-        "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
-        "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
-        "source": "",
-        "link": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
-      },
-      {
-        "tag": "National",
-        "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
-        "summary": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
-        "source": "",
-        "link": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
       }
     ],
     "texas": [
-      {
-        "tag": "Texas",
-        "title": "Inside Texas Politics | The 2026 Turkey Awards - WFAA",
-        "summary": "",
-        "source": "WFAA",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHNYNkhYRFFEd0FBQ3NZX0NOcWo5MnVBRzVkRVJYMGM1MllVdTJNN0dHcTVZaGlRbHM0czFJazd0VU5xUkxJUmk2UGJCblQ2UGZhYnlRX3RwbWQySDAxcWZWbmJhdkFUYVVJRFA5WllSbV9aSjVuV01BazJZZ1Noem1teWV0ZWVJWnhuOTZ3cV9FeTBIaUFCblVrNDhJYXBGRGtEaFRkdXI2bGJ0VkVzWldjQ0x5MXZRZHdsSFJZY3IyRE5vdUNGQV9rZmdacDBlT05JSHREaWVSQmc4XzJhMkNseTJ6MDMzZUdn?oc=5"
-      },
       {
         "tag": "Texas",
         "title": "Gina Hinojosa | Texas Governor, Political Beliefs, Family, Education, & Biography - Britannica",
         "summary": "",
         "source": "Britannica",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwQjI5ZEFRQzVMV2VnMUl1XzVOdC1VSVVjWDJuWE5FUVFwYXZXUTE3M1JhSjF1bmJVMkVtTVhYQW5mZHJhZkVLYVFKbXNtb0toSzVmb2xqbU1aQ25UUjRz?oc=5"
+      },
+      {
+        "tag": "Texas",
+        "title": "Inside Texas Politics: The 2026 Turkey Awards - WFAA",
+        "summary": "",
+        "source": "WFAA",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHNYNkhYRFFEd0FBQ3NZX0NOcWo5MnVBRzVkRVJYMGM1MllVdTJNN0dHcTVZaGlRbHM0czFJazd0VU5xUkxJUmk2UGJCblQ2UGZhYnlRX3RwbWQySDAxcWZWbmJhdkFUYVVJRFA5WllSbV9aSjVuV01BazJZZ1Noem1teWV0ZWVJWnhuOTZ3cV9FeTBIaUFCblVrNDhJYXBGRGtEaFRkdXI2bGJ0VkVzWldjQ0x5MXZRZHdsSFJZY3IyRE5vdUNGQV9rZmdacDBlT05JSHREaWVSQmc4XzJhMkNseTJ6MDMzZUdn?oc=5"
       }
     ]
   },
@@ -151,22 +151,22 @@
   },
   "sports": {
     "mavericks": {
-      "headline": "Mavericks reach NBA Cup knockout round with Phoenix loss at Houston - NBA.com",
+      "headline": "Injury Report as Mavericks Close Out NBA Cup Group Play Against Phoenix Suns - Sports Illustrated",
       "summary": "",
-      "source": "NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2wwQThhYmxXd0VQNE56VkZfWjZsT0dwYzV5ODhIZ3lVNjJLcG9uNUNMcXJWbkZCeDUxOHVFaFRnZGdYTENDNnZhMXpMVUtKVEpXTU9ZaVR4S0RXZ3liX2lzRFRXSWFMYTlkTi1HZGJjdk1CNWpETFJ5VmtyMVRHb1p0bGU1VTZSTktOcTJCNnlMSmJLT05xTzd0dW1LZw?oc=5"
+      "source": "Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDJKZDVSNmRLVkRJcjlnYkl5akFSLVNCcGpwLTFZOVJKMUxuN291LXItQlMtX1lsbU02UW1yYnRUMG1nTk5MOVZIWGZkRnlLS1BsdFdLOU5QMjJjb29GVWtDWWdONUdrMmk4RVBqMS05SU5OYXlhbUNFakVISVZqM3BBWnVaaTlPMmk2bE5xa05wRVpoUjkySVVHZk1lVGxXT1V6Q0pBQWFoWElLQVFHZzRZMU5hQQ?oc=5"
     },
     "cowboys": {
-      "headline": "Trivia Thursday: Digging in for Thanksgiving - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "headline": "Brian Schottenheimer, Cowboys 'ready to get back to work' after Thanksgiving loss to Eagles - Dallas Cowboys | Official Site of the Dallas Cowboys",
       "summary": "",
       "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFNBdkxicWRDMDF3M0VXMmNQNVNfaHh1LXJDXzZKYmJmQUxrQ0dheXhEM2VHZ2tYUER4STRid0lHOUN4LXc2TmMxdGJJSFhLWGhmeHZVQ0ZIdG81M09DeElXa0ZTN09aOWpZaDdvOVlMOXhPd2V4UXU4TVlWaUNYR1dETnU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkVqYjVMeUlLcV9oaU5VRDFWbEpRWjZJS1VEdDQ5MGF4VmFfTmJaQ05iRGk0ejNXVEJSaWFkX1hEaldGaGNVSEM3bGdhSG15ZW1rU3BNUjBHQWdxeGdpVHZ6cmJPMkRnZHhOTW50RlA0V2ljZTZ3c1J3MnhhSmhtM3A1X1pMakljNExrZEZvSkNJRjRLck9kaFFadDRTUWIyaHRHU0pjdnV3Z245RG9EVnFHQ1JOa1dHRnJHQW9iMTE?oc=5"
     },
     "longhorns": {
-      "headline": "Longhorns Daily News: Texas S Jelani McDonald named Thorpe Award finalist after not being included among semifinalists - Burnt Orange Nation",
+      "headline": "Texas vs. Saint Mary's (Nov 27, 2026) Live Score - ESPN",
       "summary": "",
-      "source": "Burnt Orange Nation",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEtWT1hzQVdsT1o0Qnp5VlZHVllDNVpzTS1yLUFIZTBNUUZpcWE2RTE4clI2NVhIbW5qSEtVMnJLV2ZLTHQxNGk3OFhoM0x6ajl3TWgyX1lnLWxPWGRibkFHd2VxQUJmWjRoMkpheDNzUFdKSWNxQVl4RGd0WWFJSk1xSXhHYm02SUdjM1lhVlpwamJuVWctLUEzOG5laFZHY04yaC1B?oc=5"
+      "source": "ESPN",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamItSHRfaGk2Y3ZxMjBKZC0tN3Vhd2JSOEdQdFF5eGdwakl6QWFlRlgtYmRmcVVuOVZFWm5MSC1lbnBMaU5WeXlQLWZraUdBOVZRWkdCMlNZNzlFeUhrYjJyNWdxOHdWUkhMb0hkY0o0RVZtMnp4SEdaa1ppTDVSbVBDd2piVTNqS3dWd0Y0WQ?oc=5"
     }
   }
 }
